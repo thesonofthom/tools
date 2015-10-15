@@ -1,0 +1,184 @@
+---------------------------------------------------------------
+PNG File Format: fouroclocks.png (offset: 0, size 499875 bytes)
+---------------------------------------------------------------
+PNG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x00000205 (517)
+    Height            : (offset: 12, size: 4 bytes): 0x00000300 (768)
+    Bit depth         : (offset: 16, size: 1 byte): 0x08
+    Color Type        : (offset: 17, size: 1 byte): 0x02 (Truecolor)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x00
+    CRC               : (offset: 21, size: 4 bytes): 0x3B44835D (994345821)
+Chunk[0]: (offset: 33, size: 21 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000009
+    Chunk type   : (offset: 4, size: 4 bytes): "pHYs" [0x70,0x48,0x59,0x73]
+    Data: (offset: 8, size: 9 bytes): 
+        Pixels Per Unit, X Axis: (offset: 0, size: 4 bytes): 0x00000064 (100)
+        Pixels Per Unit, Y Axis: (offset: 4, size: 4 bytes): 0x00000064 (100)
+        Unit Specifier         : (offset: 8, size: 1 byte): 0x00 (Unit_is_unknown)
+    Reserved     : (offset: 17, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 17, size: 4 bytes): 0x0F96C5DD (261539293)
+Chunk[1]: (offset: 54, size: 82 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000046 (70)
+    Chunk type   : (offset: 4, size: 4 bytes): "tEXt" [0x74,0x45,0x58,0x74]
+    Data: (offset: 8, size: 70 bytes): 
+        Keyword        : (offset: 0, size: 23 bytes): "Raw profile type app12" [0x52,0x61,0x77,0x20,0x70,0x72,0x6F,0x66,0x69,0x6C,0x65,0x20,0x74,0x79,0x70,0x65,0x20,0x61,0x70,0x70,0x31,0x32,0x00]
+        Text String    : (offset: 23, size: 47 bytes): "app12      154475636b79000100040000003c0000" [0x0A,0x61,0x70,0x70,0x31,0x32,0x0A,0x20,0x20,0x20,0x20,0x20,0x20,0x31,0x35,0x0A,0x34,0x34,0x37,0x35,0x36,0x33,0x36,0x62,0x37,0x39,0x30,0x30,0x30,0x31,0x30,0x30,0x30,0x34,0x30,0x30,0x30,0x30,0x30,0x30,0x33,0x63,0x30,0x30,0x30,0x30,0x0A]
+    Reserved     : (offset: 78, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 78, size: 4 bytes): 0xCCC8759B (3435689371)
+Chunk[2]: (offset: 136, size: 21 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000009
+    Chunk type   : (offset: 4, size: 4 bytes): "vpAg" [0x76,0x70,0x41,0x67]
+    Data: (offset: 8, size: 9 bytes): 
+        Chunk Data: (offset: 0, size: 9 bytes): 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 02 05 00 00 03 00 00 
+    Reserved     : (offset: 17, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 17, size: 4 bytes): 0xD0C683CA (3502670794)
+Chunk[3]: (offset: 157, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xF0B4FA38 (4038392376)
+Chunk[4]: (offset: 32937, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x173A1028 (389681192)
+Chunk[5]: (offset: 65717, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x413A570E (1094342414)
+Chunk[6]: (offset: 98497, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x9BA929B9 (2611554745)
+Chunk[7]: (offset: 131277, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xD38A507A (3549057146)
+Chunk[8]: (offset: 164057, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x138B5429 (327898153)
+Chunk[9]: (offset: 196837, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x48D03669 (1221604969)
+Chunk[10]: (offset: 229617, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x72269453 (1915130963)
+Chunk[11]: (offset: 262397, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xFA94D45A (4204057690)
+Chunk[12]: (offset: 295177, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x81B65C1B (2176211995)
+Chunk[13]: (offset: 327957, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xBA9157F4 (3130087412)
+Chunk[14]: (offset: 360737, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x2B0E38DB (722352347)
+Chunk[15]: (offset: 393517, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0x7E3181B0 (2117173680)
+Chunk[16]: (offset: 426297, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xA6C1F348 (2797728584)
+Chunk[17]: (offset: 459077, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xDD3C340D (3711710221)
+Chunk[18]: (offset: 491857, size: 7919 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00001EE3 (7907)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 7907 bytes): 
+        Chunk Data: (offset: 0, size: 7907 bytes): {7907 bytes}
+    Reserved     : (offset: 7915, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 7915, size: 4 bytes): 0xAE7EF2D2 (2927555282)
+Chunk[19]: (offset: 499776, size: 38 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x0000001A (26)
+    Chunk type   : (offset: 4, size: 4 bytes): "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: (offset: 8, size: 26 bytes): 
+        Keyword                   : (offset: 0, size: 16 bytes): "JPEG-Colorspace" [0x4A,0x50,0x45,0x47,0x2D,0x43,0x6F,0x6C,0x6F,0x72,0x73,0x70,0x61,0x63,0x65,0x00]
+        Compression Method        : (offset: 16, size: 1 byte): 0x00
+        Compressed Text Datastream: (offset: 17, size: 9 bytes): {9 bytes}
+    Reserved     : (offset: 34, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 34, size: 4 bytes): 0x11167E63 (286686819)
+Chunk[20]: (offset: 499814, size: 49 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000025 (37)
+    Chunk type   : (offset: 4, size: 4 bytes): "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: (offset: 8, size: 37 bytes): 
+        Keyword                   : (offset: 0, size: 22 bytes): "JPEG-Sampling-factors" [0x4A,0x50,0x45,0x47,0x2D,0x53,0x61,0x6D,0x70,0x6C,0x69,0x6E,0x67,0x2D,0x66,0x61,0x63,0x74,0x6F,0x72,0x73,0x00]
+        Compression Method        : (offset: 22, size: 1 byte): 0x00
+        Compressed Text Datastream: (offset: 23, size: 14 bytes): {14 bytes}
+    Reserved     : (offset: 45, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 45, size: 4 bytes): 0x209EF023 (547287075)
+Chunk[21]: (offset: 499863, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

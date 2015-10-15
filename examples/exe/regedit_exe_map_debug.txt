@@ -1,0 +1,140 @@
+----------------------------------------------------------------
+Windows EXE File Header: regedit.exe (offset: 0, size 496 bytes)
+----------------------------------------------------------------
+DOS Header: (offset: 0, size: 64 bytes): 
+    Magic number                    : (offset: 0, size: 2 bytes): "MZ" [0x4D,0x5A]
+    Bytes on last page of file      : (offset: 2, size: 2 bytes): 0x0090 (144)
+    Pages in file                   : (offset: 4, size: 2 bytes): 0x0003
+    Relocations                     : (offset: 6, size: 2 bytes): 0x0000
+    Size of header in paragraphs    : (offset: 8, size: 2 bytes): 0x0004
+    Minimum extra paragraphs needed : (offset: 10, size: 2 bytes): 0x0000
+    Maximum extra paragraphs needed : (offset: 12, size: 2 bytes): 0xFFFF (65535)
+    Initial (relative) SS value     : (offset: 14, size: 2 bytes): 0x0000
+    Initial SP value                : (offset: 16, size: 2 bytes): 0x00B8 (184)
+    Checksum                        : (offset: 18, size: 2 bytes): 0x0000
+    Initial IP value                : (offset: 20, size: 2 bytes): 0x0000
+    Initial (relative) CS value     : (offset: 22, size: 2 bytes): 0x0000
+    File address of relocation table: (offset: 24, size: 2 bytes): 0x0040 (64)
+    Overlay number                  : (offset: 26, size: 2 bytes): 0x0000
+    Reserved                        : (offset: 28, size: 8 bytes): {8 bytes}
+    OEM identifier                  : (offset: 36, size: 2 bytes): 0x0000
+    OEM information                 : (offset: 38, size: 2 bytes): 0x0000
+    Reserved                        : (offset: 40, size: 20 bytes): {20 bytes}
+    File address of new exe header  : (offset: 60, size: 4 bytes): 0x000000E8 (232)
+DOS Data  : (offset: 64, size: 168 bytes): {168 bytes}
+PE Header: (offset: 232, size: 264 bytes): 
+    Signature         : (offset: 0, size: 4 bytes): "PE" [0x50,0x45,0x00,0x00]
+    COFF Header: (offset: 4, size: 20 bytes): 
+        Machine                : (offset: 0, size: 2 bytes): 0x8664 (34404) (AMD64)
+        Number of Sections     : (offset: 2, size: 2 bytes): 0x0006
+        Time-Date Stamp        : (offset: 4, size: 4 bytes): 0x4A5BC2CC (1247527628)
+        Pointer To Symbol Table: (offset: 8, size: 4 bytes): 0x00000000
+        Number of Symbols      : (offset: 12, size: 4 bytes): 0x00000000
+        Size of Optional Header: (offset: 16, size: 2 bytes): 0x00F0 (240)
+        Characteristics: (offset: 18, size: 2 bytes): 
+            Relocation Info Stripped                : (offset: 0, bit offset: 0, size: 1 bit): 0b
+            Executable File                         : (offset: 0, bit offset: 1, size: 1 bit): 1b
+            Line Numbers Stripped                   : (offset: 0, bit offset: 2, size: 1 bit): 0b
+            Local Symbols Stripped                  : (offset: 0, bit offset: 3, size: 1 bit): 0b
+            Aggressive Working Set Trim             : (offset: 0, bit offset: 4, size: 1 bit): 0b
+            Large Address Aware (>2GB)              : (offset: 0, bit offset: 5, size: 1 bit): 1b
+            Bytes of Machine Word Reveresed (Low)   : (offset: 0, bit offset: 6, size: 1 bit): 0b
+            Reserved                                : (offset: 0, bit offset: 7, size: 1 bit): [0x0 (0b)]
+            32 Bit Word Machine                     : (offset: 1, bit offset: 0, size: 1 bit): 0b
+            Debug Info Stripped                     : (offset: 1, bit offset: 1, size: 1 bit): 0b
+            Run From Swap File if on Removable Media: (offset: 1, bit offset: 2, size: 1 bit): 0b
+            Run From Swap File if on Net            : (offset: 1, bit offset: 3, size: 1 bit): 0b
+            System File                             : (offset: 1, bit offset: 4, size: 1 bit): 0b
+            DLL File                                : (offset: 1, bit offset: 5, size: 1 bit): 0b
+            Run on UP Machine Only                  : (offset: 1, bit offset: 6, size: 1 bit): 0b
+            Bytes of Machine Word Reveresed (Hi)    : (offset: 1, bit offset: 7, size: 1 bit): 0b
+    PE Optional Header: (offset: 24, size: 240 bytes): 
+        Magic                     : (offset: 0, size: 2 bytes): 0x020B (523) (HDR64_MAGIC)
+        Major Linker Version      : (offset: 2, size: 1 byte): 0x09
+        Minor Linker Version      : (offset: 3, size: 1 byte): 0x00
+        Size of Code              : (offset: 4, size: 4 bytes): 0x0001D200 (119296)
+        Size of Initialized Data  : (offset: 8, size: 4 bytes): 0x0004BC00 (310272)
+        Size of Uninitialized Data: (offset: 12, size: 4 bytes): 0x00000000
+        Address of Entry Point    : (offset: 16, size: 4 bytes): 0x00001010 (4112)
+        Base of Code              : (offset: 20, size: 4 bytes): 0x00001000 (4096)
+        Base of Data              : (offset: 24, size: 0 bytes): 
+        Image Base                : (offset: 24, size: 8 bytes): 0x0000000100000000 (4294967296)
+        Section Alignment         : (offset: 32, size: 4 bytes): 0x00001000 (4096)
+        File Alignment            : (offset: 36, size: 4 bytes): 0x00000200 (512)
+        Major OS Version          : (offset: 40, size: 2 bytes): 0x0006
+        Minor OS Version          : (offset: 42, size: 2 bytes): 0x0001
+        Major Image Version       : (offset: 44, size: 2 bytes): 0x0006
+        Minor Image Version       : (offset: 46, size: 2 bytes): 0x0001
+        Major Subsystem Version   : (offset: 48, size: 2 bytes): 0x0006
+        Minor Subsystem Version   : (offset: 50, size: 2 bytes): 0x0001
+        Reserved                  : (offset: 52, size: 4 bytes): {4 bytes}
+        Size of Image             : (offset: 56, size: 4 bytes): 0x0006D000 (446464)
+        Size Of Headers           : (offset: 60, size: 4 bytes): 0x00000600 (1536)
+        Checksum                  : (offset: 64, size: 4 bytes): 0x000731B8 (471480)
+        Subsystem                 : (offset: 68, size: 2 bytes): 0x0002 (WINDOWS_GUI)
+        DLL Characteristics: (offset: 70, size: 2 bytes): 
+            Reserved              : (offset: 0, bit offset: 0, size: 6 bits): [0x00 (000000b)]
+            Dynamic Base          : (offset: 0, bit offset: 6, size: 1 bit): 1b
+            Force Integrity       : (offset: 0, bit offset: 7, size: 1 bit): 0b
+            NX Compatible         : (offset: 1, bit offset: 0, size: 1 bit): 1b
+            Does not use isolation: (offset: 1, bit offset: 1, size: 1 bit): 0b
+            Does not use SEH      : (offset: 1, bit offset: 2, size: 1 bit): 0b
+            Do not bind           : (offset: 1, bit offset: 3, size: 1 bit): 0b
+            Reserved              : (offset: 1, bit offset: 4, size: 1 bit): [0x0 (0b)]
+            Driver uses WDM model : (offset: 1, bit offset: 5, size: 1 bit): 0b
+            Reserved              : (offset: 1, bit offset: 6, size: 1 bit): [0x0 (0b)]
+            Terminal Server Aware : (offset: 1, bit offset: 7, size: 1 bit): 1b
+        Size of Stack Reserve     : (offset: 72, size: 8 bytes): 0x0000000000080000 (524288)
+        Size of Stack Commit      : (offset: 80, size: 8 bytes): 0x0000000000004000 (16384)
+        Size of Heap Reserve      : (offset: 88, size: 8 bytes): 0x0000000000100000 (1048576)
+        Size of Heap Commit       : (offset: 96, size: 8 bytes): 0x0000000000001000 (4096)
+        Loader Flags              : (offset: 104, size: 4 bytes): 0x00000000
+        Number of Rva and Sizes   : (offset: 108, size: 4 bytes): 0x00000010 (16)
+        Data Directory[0]: (offset: 112, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[1]: (offset: 120, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00020E70 (134768)
+            Size           : (offset: 4, size: 4 bytes): 0x00000154 (340)
+        Data Directory[2]: (offset: 128, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00068000 (425984)
+            Size           : (offset: 4, size: 4 bytes): 0x00003488 (13448)
+        Data Directory[3]: (offset: 136, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00067000 (421888)
+            Size           : (offset: 4, size: 4 bytes): 0x00000F90 (3984)
+        Data Directory[4]: (offset: 144, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[5]: (offset: 152, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x0006C000 (442368)
+            Size           : (offset: 4, size: 4 bytes): 0x0000012C (300)
+        Data Directory[6]: (offset: 160, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x0001E064 (122980)
+            Size           : (offset: 4, size: 4 bytes): 0x00000038 (56)
+        Data Directory[7]: (offset: 168, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[8]: (offset: 176, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[9]: (offset: 184, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[10]: (offset: 192, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[11]: (offset: 200, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x000002E0 (736)
+            Size           : (offset: 4, size: 4 bytes): 0x00000154 (340)
+        Data Directory[12]: (offset: 208, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x0001F000 (126976)
+            Size           : (offset: 4, size: 4 bytes): 0x00000B08 (2824)
+        Data Directory[13]: (offset: 216, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00020E00 (134656)
+            Size           : (offset: 4, size: 4 bytes): 0x00000040 (64)
+        Data Directory[14]: (offset: 224, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000
+        Data Directory[15]: (offset: 232, size: 8 bytes): 
+            Virtual Address: (offset: 0, size: 4 bytes): 0x00000000
+            Size           : (offset: 4, size: 4 bytes): 0x00000000

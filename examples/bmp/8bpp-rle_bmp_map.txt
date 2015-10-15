@@ -1,0 +1,1043 @@
+----------------------
+BMP File: 8bpp-rle.bmp
+----------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x00000C1C (3100)
+    Data Offset : 0x00000436 (1078)
+DIB Header: 
+    Size                             : 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : 0x00000047 (71)
+    Height                           : 0x0000006B (107)
+    Planes                           : 0x0001
+    Bits-Per-Pixel                   : 0x0008
+    Compression                      : 0x00000001 (BI_RLE8)
+    Size of Image                    : 0x000007E6 (2022)
+    Horizontal Pixels-Per-Meter      : 0x00000B12 (2834)
+    Vertical Pixels-Per-Meter        : 0x00000B12 (2834)
+    Color Indices Used               : 0x00000100 (256)
+    Number of Important Color Indices: 0x00000100 (256)
+Color Palette[0]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[1]: 
+    Blue    : 0x33 (51)
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[2]: 
+    Blue    : 0x66 (102)
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[3]: 
+    Blue    : 0x99 (153)
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[4]: 
+    Blue    : 0xCC (204)
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[5]: 
+    Blue    : 0xFF (255)
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[6]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x33 (51)
+Color Palette[7]: 
+    Blue    : 0x33 (51)
+    Green   : 0x00
+    Red     : 0x33 (51)
+Color Palette[8]: 
+    Blue    : 0x66 (102)
+    Green   : 0x00
+    Red     : 0x33 (51)
+Color Palette[9]: 
+    Blue    : 0x99 (153)
+    Green   : 0x00
+    Red     : 0x33 (51)
+Color Palette[10]: 
+    Blue    : 0xCC (204)
+    Green   : 0x00
+    Red     : 0x33 (51)
+Color Palette[11]: 
+    Blue    : 0xFF (255)
+    Green   : 0x00
+    Red     : 0x33 (51)
+Color Palette[12]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x66 (102)
+Color Palette[13]: 
+    Blue    : 0x33 (51)
+    Green   : 0x00
+    Red     : 0x66 (102)
+Color Palette[14]: 
+    Blue    : 0x66 (102)
+    Green   : 0x00
+    Red     : 0x66 (102)
+Color Palette[15]: 
+    Blue    : 0x99 (153)
+    Green   : 0x00
+    Red     : 0x66 (102)
+Color Palette[16]: 
+    Blue    : 0xCC (204)
+    Green   : 0x00
+    Red     : 0x66 (102)
+Color Palette[17]: 
+    Blue    : 0xFF (255)
+    Green   : 0x00
+    Red     : 0x66 (102)
+Color Palette[18]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x99 (153)
+Color Palette[19]: 
+    Blue    : 0x33 (51)
+    Green   : 0x00
+    Red     : 0x99 (153)
+Color Palette[20]: 
+    Blue    : 0x66 (102)
+    Green   : 0x00
+    Red     : 0x99 (153)
+Color Palette[21]: 
+    Blue    : 0x99 (153)
+    Green   : 0x00
+    Red     : 0x99 (153)
+Color Palette[22]: 
+    Blue    : 0xCC (204)
+    Green   : 0x00
+    Red     : 0x99 (153)
+Color Palette[23]: 
+    Blue    : 0xFF (255)
+    Green   : 0x00
+    Red     : 0x99 (153)
+Color Palette[24]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0xCC (204)
+Color Palette[25]: 
+    Blue    : 0x33 (51)
+    Green   : 0x00
+    Red     : 0xCC (204)
+Color Palette[26]: 
+    Blue    : 0x66 (102)
+    Green   : 0x00
+    Red     : 0xCC (204)
+Color Palette[27]: 
+    Blue    : 0x99 (153)
+    Green   : 0x00
+    Red     : 0xCC (204)
+Color Palette[28]: 
+    Blue    : 0xCC (204)
+    Green   : 0x00
+    Red     : 0xCC (204)
+Color Palette[29]: 
+    Blue    : 0xFF (255)
+    Green   : 0x00
+    Red     : 0xCC (204)
+Color Palette[30]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0xFF (255)
+Color Palette[31]: 
+    Blue    : 0x33 (51)
+    Green   : 0x00
+    Red     : 0xFF (255)
+Color Palette[32]: 
+    Blue    : 0x66 (102)
+    Green   : 0x00
+    Red     : 0xFF (255)
+Color Palette[33]: 
+    Blue    : 0x99 (153)
+    Green   : 0x00
+    Red     : 0xFF (255)
+Color Palette[34]: 
+    Blue    : 0xCC (204)
+    Green   : 0x00
+    Red     : 0xFF (255)
+Color Palette[35]: 
+    Blue    : 0xFF (255)
+    Green   : 0x00
+    Red     : 0xFF (255)
+Color Palette[36]: 
+    Blue    : 0x00
+    Green   : 0x33 (51)
+    Red     : 0x00
+Color Palette[37]: 
+    Blue    : 0x33 (51)
+    Green   : 0x33 (51)
+    Red     : 0x00
+Color Palette[38]: 
+    Blue    : 0x66 (102)
+    Green   : 0x33 (51)
+    Red     : 0x00
+Color Palette[39]: 
+    Blue    : 0x99 (153)
+    Green   : 0x33 (51)
+    Red     : 0x00
+Color Palette[40]: 
+    Blue    : 0xCC (204)
+    Green   : 0x33 (51)
+    Red     : 0x00
+Color Palette[41]: 
+    Blue    : 0xFF (255)
+    Green   : 0x33 (51)
+    Red     : 0x00
+Color Palette[42]: 
+    Blue    : 0x00
+    Green   : 0x33 (51)
+    Red     : 0x33 (51)
+Color Palette[43]: 
+    Blue    : 0x33 (51)
+    Green   : 0x33 (51)
+    Red     : 0x33 (51)
+Color Palette[44]: 
+    Blue    : 0x66 (102)
+    Green   : 0x33 (51)
+    Red     : 0x33 (51)
+Color Palette[45]: 
+    Blue    : 0x99 (153)
+    Green   : 0x33 (51)
+    Red     : 0x33 (51)
+Color Palette[46]: 
+    Blue    : 0xCC (204)
+    Green   : 0x33 (51)
+    Red     : 0x33 (51)
+Color Palette[47]: 
+    Blue    : 0xFF (255)
+    Green   : 0x33 (51)
+    Red     : 0x33 (51)
+Color Palette[48]: 
+    Blue    : 0x00
+    Green   : 0x33 (51)
+    Red     : 0x66 (102)
+Color Palette[49]: 
+    Blue    : 0x33 (51)
+    Green   : 0x33 (51)
+    Red     : 0x66 (102)
+Color Palette[50]: 
+    Blue    : 0x66 (102)
+    Green   : 0x33 (51)
+    Red     : 0x66 (102)
+Color Palette[51]: 
+    Blue    : 0x99 (153)
+    Green   : 0x33 (51)
+    Red     : 0x66 (102)
+Color Palette[52]: 
+    Blue    : 0xCC (204)
+    Green   : 0x33 (51)
+    Red     : 0x66 (102)
+Color Palette[53]: 
+    Blue    : 0xFF (255)
+    Green   : 0x33 (51)
+    Red     : 0x66 (102)
+Color Palette[54]: 
+    Blue    : 0x00
+    Green   : 0x33 (51)
+    Red     : 0x99 (153)
+Color Palette[55]: 
+    Blue    : 0x33 (51)
+    Green   : 0x33 (51)
+    Red     : 0x99 (153)
+Color Palette[56]: 
+    Blue    : 0x66 (102)
+    Green   : 0x33 (51)
+    Red     : 0x99 (153)
+Color Palette[57]: 
+    Blue    : 0x99 (153)
+    Green   : 0x33 (51)
+    Red     : 0x99 (153)
+Color Palette[58]: 
+    Blue    : 0xCC (204)
+    Green   : 0x33 (51)
+    Red     : 0x99 (153)
+Color Palette[59]: 
+    Blue    : 0xFF (255)
+    Green   : 0x33 (51)
+    Red     : 0x99 (153)
+Color Palette[60]: 
+    Blue    : 0x00
+    Green   : 0x33 (51)
+    Red     : 0xCC (204)
+Color Palette[61]: 
+    Blue    : 0x33 (51)
+    Green   : 0x33 (51)
+    Red     : 0xCC (204)
+Color Palette[62]: 
+    Blue    : 0x66 (102)
+    Green   : 0x33 (51)
+    Red     : 0xCC (204)
+Color Palette[63]: 
+    Blue    : 0x99 (153)
+    Green   : 0x33 (51)
+    Red     : 0xCC (204)
+Color Palette[64]: 
+    Blue    : 0xCC (204)
+    Green   : 0x33 (51)
+    Red     : 0xCC (204)
+Color Palette[65]: 
+    Blue    : 0xFF (255)
+    Green   : 0x33 (51)
+    Red     : 0xCC (204)
+Color Palette[66]: 
+    Blue    : 0x00
+    Green   : 0x33 (51)
+    Red     : 0xFF (255)
+Color Palette[67]: 
+    Blue    : 0x33 (51)
+    Green   : 0x33 (51)
+    Red     : 0xFF (255)
+Color Palette[68]: 
+    Blue    : 0x66 (102)
+    Green   : 0x33 (51)
+    Red     : 0xFF (255)
+Color Palette[69]: 
+    Blue    : 0x99 (153)
+    Green   : 0x33 (51)
+    Red     : 0xFF (255)
+Color Palette[70]: 
+    Blue    : 0xCC (204)
+    Green   : 0x33 (51)
+    Red     : 0xFF (255)
+Color Palette[71]: 
+    Blue    : 0xFF (255)
+    Green   : 0x33 (51)
+    Red     : 0xFF (255)
+Color Palette[72]: 
+    Blue    : 0x00
+    Green   : 0x66 (102)
+    Red     : 0x00
+Color Palette[73]: 
+    Blue    : 0x33 (51)
+    Green   : 0x66 (102)
+    Red     : 0x00
+Color Palette[74]: 
+    Blue    : 0x66 (102)
+    Green   : 0x66 (102)
+    Red     : 0x00
+Color Palette[75]: 
+    Blue    : 0x99 (153)
+    Green   : 0x66 (102)
+    Red     : 0x00
+Color Palette[76]: 
+    Blue    : 0xCC (204)
+    Green   : 0x66 (102)
+    Red     : 0x00
+Color Palette[77]: 
+    Blue    : 0xFF (255)
+    Green   : 0x66 (102)
+    Red     : 0x00
+Color Palette[78]: 
+    Blue    : 0x00
+    Green   : 0x66 (102)
+    Red     : 0x33 (51)
+Color Palette[79]: 
+    Blue    : 0x33 (51)
+    Green   : 0x66 (102)
+    Red     : 0x33 (51)
+Color Palette[80]: 
+    Blue    : 0x66 (102)
+    Green   : 0x66 (102)
+    Red     : 0x33 (51)
+Color Palette[81]: 
+    Blue    : 0x99 (153)
+    Green   : 0x66 (102)
+    Red     : 0x33 (51)
+Color Palette[82]: 
+    Blue    : 0xCC (204)
+    Green   : 0x66 (102)
+    Red     : 0x33 (51)
+Color Palette[83]: 
+    Blue    : 0xFF (255)
+    Green   : 0x66 (102)
+    Red     : 0x33 (51)
+Color Palette[84]: 
+    Blue    : 0x00
+    Green   : 0x66 (102)
+    Red     : 0x66 (102)
+Color Palette[85]: 
+    Blue    : 0x33 (51)
+    Green   : 0x66 (102)
+    Red     : 0x66 (102)
+Color Palette[86]: 
+    Blue    : 0x66 (102)
+    Green   : 0x66 (102)
+    Red     : 0x66 (102)
+Color Palette[87]: 
+    Blue    : 0x99 (153)
+    Green   : 0x66 (102)
+    Red     : 0x66 (102)
+Color Palette[88]: 
+    Blue    : 0xCC (204)
+    Green   : 0x66 (102)
+    Red     : 0x66 (102)
+Color Palette[89]: 
+    Blue    : 0xFF (255)
+    Green   : 0x66 (102)
+    Red     : 0x66 (102)
+Color Palette[90]: 
+    Blue    : 0x00
+    Green   : 0x66 (102)
+    Red     : 0x99 (153)
+Color Palette[91]: 
+    Blue    : 0x33 (51)
+    Green   : 0x66 (102)
+    Red     : 0x99 (153)
+Color Palette[92]: 
+    Blue    : 0x66 (102)
+    Green   : 0x66 (102)
+    Red     : 0x99 (153)
+Color Palette[93]: 
+    Blue    : 0x99 (153)
+    Green   : 0x66 (102)
+    Red     : 0x99 (153)
+Color Palette[94]: 
+    Blue    : 0xCC (204)
+    Green   : 0x66 (102)
+    Red     : 0x99 (153)
+Color Palette[95]: 
+    Blue    : 0xFF (255)
+    Green   : 0x66 (102)
+    Red     : 0x99 (153)
+Color Palette[96]: 
+    Blue    : 0x00
+    Green   : 0x66 (102)
+    Red     : 0xCC (204)
+Color Palette[97]: 
+    Blue    : 0x33 (51)
+    Green   : 0x66 (102)
+    Red     : 0xCC (204)
+Color Palette[98]: 
+    Blue    : 0x66 (102)
+    Green   : 0x66 (102)
+    Red     : 0xCC (204)
+Color Palette[99]: 
+    Blue    : 0x99 (153)
+    Green   : 0x66 (102)
+    Red     : 0xCC (204)
+Color Palette[100]: 
+    Blue    : 0xCC (204)
+    Green   : 0x66 (102)
+    Red     : 0xCC (204)
+Color Palette[101]: 
+    Blue    : 0xFF (255)
+    Green   : 0x66 (102)
+    Red     : 0xCC (204)
+Color Palette[102]: 
+    Blue    : 0x00
+    Green   : 0x66 (102)
+    Red     : 0xFF (255)
+Color Palette[103]: 
+    Blue    : 0x33 (51)
+    Green   : 0x66 (102)
+    Red     : 0xFF (255)
+Color Palette[104]: 
+    Blue    : 0x66 (102)
+    Green   : 0x66 (102)
+    Red     : 0xFF (255)
+Color Palette[105]: 
+    Blue    : 0x99 (153)
+    Green   : 0x66 (102)
+    Red     : 0xFF (255)
+Color Palette[106]: 
+    Blue    : 0xCC (204)
+    Green   : 0x66 (102)
+    Red     : 0xFF (255)
+Color Palette[107]: 
+    Blue    : 0xFF (255)
+    Green   : 0x66 (102)
+    Red     : 0xFF (255)
+Color Palette[108]: 
+    Blue    : 0x00
+    Green   : 0x99 (153)
+    Red     : 0x00
+Color Palette[109]: 
+    Blue    : 0x33 (51)
+    Green   : 0x99 (153)
+    Red     : 0x00
+Color Palette[110]: 
+    Blue    : 0x66 (102)
+    Green   : 0x99 (153)
+    Red     : 0x00
+Color Palette[111]: 
+    Blue    : 0x99 (153)
+    Green   : 0x99 (153)
+    Red     : 0x00
+Color Palette[112]: 
+    Blue    : 0xCC (204)
+    Green   : 0x99 (153)
+    Red     : 0x00
+Color Palette[113]: 
+    Blue    : 0xFF (255)
+    Green   : 0x99 (153)
+    Red     : 0x00
+Color Palette[114]: 
+    Blue    : 0x00
+    Green   : 0x99 (153)
+    Red     : 0x33 (51)
+Color Palette[115]: 
+    Blue    : 0x33 (51)
+    Green   : 0x99 (153)
+    Red     : 0x33 (51)
+Color Palette[116]: 
+    Blue    : 0x66 (102)
+    Green   : 0x99 (153)
+    Red     : 0x33 (51)
+Color Palette[117]: 
+    Blue    : 0x99 (153)
+    Green   : 0x99 (153)
+    Red     : 0x33 (51)
+Color Palette[118]: 
+    Blue    : 0xCC (204)
+    Green   : 0x99 (153)
+    Red     : 0x33 (51)
+Color Palette[119]: 
+    Blue    : 0xFF (255)
+    Green   : 0x99 (153)
+    Red     : 0x33 (51)
+Color Palette[120]: 
+    Blue    : 0x00
+    Green   : 0x99 (153)
+    Red     : 0x66 (102)
+Color Palette[121]: 
+    Blue    : 0x33 (51)
+    Green   : 0x99 (153)
+    Red     : 0x66 (102)
+Color Palette[122]: 
+    Blue    : 0x66 (102)
+    Green   : 0x99 (153)
+    Red     : 0x66 (102)
+Color Palette[123]: 
+    Blue    : 0x99 (153)
+    Green   : 0x99 (153)
+    Red     : 0x66 (102)
+Color Palette[124]: 
+    Blue    : 0xCC (204)
+    Green   : 0x99 (153)
+    Red     : 0x66 (102)
+Color Palette[125]: 
+    Blue    : 0xFF (255)
+    Green   : 0x99 (153)
+    Red     : 0x66 (102)
+Color Palette[126]: 
+    Blue    : 0x00
+    Green   : 0x99 (153)
+    Red     : 0x99 (153)
+Color Palette[127]: 
+    Blue    : 0x33 (51)
+    Green   : 0x99 (153)
+    Red     : 0x99 (153)
+Color Palette[128]: 
+    Blue    : 0x66 (102)
+    Green   : 0x99 (153)
+    Red     : 0x99 (153)
+Color Palette[129]: 
+    Blue    : 0x99 (153)
+    Green   : 0x99 (153)
+    Red     : 0x99 (153)
+Color Palette[130]: 
+    Blue    : 0xCC (204)
+    Green   : 0x99 (153)
+    Red     : 0x99 (153)
+Color Palette[131]: 
+    Blue    : 0xFF (255)
+    Green   : 0x99 (153)
+    Red     : 0x99 (153)
+Color Palette[132]: 
+    Blue    : 0x00
+    Green   : 0x99 (153)
+    Red     : 0xCC (204)
+Color Palette[133]: 
+    Blue    : 0x33 (51)
+    Green   : 0x99 (153)
+    Red     : 0xCC (204)
+Color Palette[134]: 
+    Blue    : 0x66 (102)
+    Green   : 0x99 (153)
+    Red     : 0xCC (204)
+Color Palette[135]: 
+    Blue    : 0x99 (153)
+    Green   : 0x99 (153)
+    Red     : 0xCC (204)
+Color Palette[136]: 
+    Blue    : 0xCC (204)
+    Green   : 0x99 (153)
+    Red     : 0xCC (204)
+Color Palette[137]: 
+    Blue    : 0xFF (255)
+    Green   : 0x99 (153)
+    Red     : 0xCC (204)
+Color Palette[138]: 
+    Blue    : 0x00
+    Green   : 0x99 (153)
+    Red     : 0xFF (255)
+Color Palette[139]: 
+    Blue    : 0x33 (51)
+    Green   : 0x99 (153)
+    Red     : 0xFF (255)
+Color Palette[140]: 
+    Blue    : 0x66 (102)
+    Green   : 0x99 (153)
+    Red     : 0xFF (255)
+Color Palette[141]: 
+    Blue    : 0x99 (153)
+    Green   : 0x99 (153)
+    Red     : 0xFF (255)
+Color Palette[142]: 
+    Blue    : 0xCC (204)
+    Green   : 0x99 (153)
+    Red     : 0xFF (255)
+Color Palette[143]: 
+    Blue    : 0xFF (255)
+    Green   : 0x99 (153)
+    Red     : 0xFF (255)
+Color Palette[144]: 
+    Blue    : 0x00
+    Green   : 0xCC (204)
+    Red     : 0x00
+Color Palette[145]: 
+    Blue    : 0x33 (51)
+    Green   : 0xCC (204)
+    Red     : 0x00
+Color Palette[146]: 
+    Blue    : 0x66 (102)
+    Green   : 0xCC (204)
+    Red     : 0x00
+Color Palette[147]: 
+    Blue    : 0x99 (153)
+    Green   : 0xCC (204)
+    Red     : 0x00
+Color Palette[148]: 
+    Blue    : 0xCC (204)
+    Green   : 0xCC (204)
+    Red     : 0x00
+Color Palette[149]: 
+    Blue    : 0xFF (255)
+    Green   : 0xCC (204)
+    Red     : 0x00
+Color Palette[150]: 
+    Blue    : 0x00
+    Green   : 0xCC (204)
+    Red     : 0x33 (51)
+Color Palette[151]: 
+    Blue    : 0x33 (51)
+    Green   : 0xCC (204)
+    Red     : 0x33 (51)
+Color Palette[152]: 
+    Blue    : 0x66 (102)
+    Green   : 0xCC (204)
+    Red     : 0x33 (51)
+Color Palette[153]: 
+    Blue    : 0x99 (153)
+    Green   : 0xCC (204)
+    Red     : 0x33 (51)
+Color Palette[154]: 
+    Blue    : 0xCC (204)
+    Green   : 0xCC (204)
+    Red     : 0x33 (51)
+Color Palette[155]: 
+    Blue    : 0xFF (255)
+    Green   : 0xCC (204)
+    Red     : 0x33 (51)
+Color Palette[156]: 
+    Blue    : 0x00
+    Green   : 0xCC (204)
+    Red     : 0x66 (102)
+Color Palette[157]: 
+    Blue    : 0x33 (51)
+    Green   : 0xCC (204)
+    Red     : 0x66 (102)
+Color Palette[158]: 
+    Blue    : 0x66 (102)
+    Green   : 0xCC (204)
+    Red     : 0x66 (102)
+Color Palette[159]: 
+    Blue    : 0x99 (153)
+    Green   : 0xCC (204)
+    Red     : 0x66 (102)
+Color Palette[160]: 
+    Blue    : 0xCC (204)
+    Green   : 0xCC (204)
+    Red     : 0x66 (102)
+Color Palette[161]: 
+    Blue    : 0xFF (255)
+    Green   : 0xCC (204)
+    Red     : 0x66 (102)
+Color Palette[162]: 
+    Blue    : 0x00
+    Green   : 0xCC (204)
+    Red     : 0x99 (153)
+Color Palette[163]: 
+    Blue    : 0x33 (51)
+    Green   : 0xCC (204)
+    Red     : 0x99 (153)
+Color Palette[164]: 
+    Blue    : 0x66 (102)
+    Green   : 0xCC (204)
+    Red     : 0x99 (153)
+Color Palette[165]: 
+    Blue    : 0x99 (153)
+    Green   : 0xCC (204)
+    Red     : 0x99 (153)
+Color Palette[166]: 
+    Blue    : 0xCC (204)
+    Green   : 0xCC (204)
+    Red     : 0x99 (153)
+Color Palette[167]: 
+    Blue    : 0xFF (255)
+    Green   : 0xCC (204)
+    Red     : 0x99 (153)
+Color Palette[168]: 
+    Blue    : 0x00
+    Green   : 0xCC (204)
+    Red     : 0xCC (204)
+Color Palette[169]: 
+    Blue    : 0x33 (51)
+    Green   : 0xCC (204)
+    Red     : 0xCC (204)
+Color Palette[170]: 
+    Blue    : 0x66 (102)
+    Green   : 0xCC (204)
+    Red     : 0xCC (204)
+Color Palette[171]: 
+    Blue    : 0x99 (153)
+    Green   : 0xCC (204)
+    Red     : 0xCC (204)
+Color Palette[172]: 
+    Blue    : 0xCC (204)
+    Green   : 0xCC (204)
+    Red     : 0xCC (204)
+Color Palette[173]: 
+    Blue    : 0xFF (255)
+    Green   : 0xCC (204)
+    Red     : 0xCC (204)
+Color Palette[174]: 
+    Blue    : 0x00
+    Green   : 0xCC (204)
+    Red     : 0xFF (255)
+Color Palette[175]: 
+    Blue    : 0x33 (51)
+    Green   : 0xCC (204)
+    Red     : 0xFF (255)
+Color Palette[176]: 
+    Blue    : 0x66 (102)
+    Green   : 0xCC (204)
+    Red     : 0xFF (255)
+Color Palette[177]: 
+    Blue    : 0x99 (153)
+    Green   : 0xCC (204)
+    Red     : 0xFF (255)
+Color Palette[178]: 
+    Blue    : 0xCC (204)
+    Green   : 0xCC (204)
+    Red     : 0xFF (255)
+Color Palette[179]: 
+    Blue    : 0xFF (255)
+    Green   : 0xCC (204)
+    Red     : 0xFF (255)
+Color Palette[180]: 
+    Blue    : 0x00
+    Green   : 0xFF (255)
+    Red     : 0x00
+Color Palette[181]: 
+    Blue    : 0x33 (51)
+    Green   : 0xFF (255)
+    Red     : 0x00
+Color Palette[182]: 
+    Blue    : 0x66 (102)
+    Green   : 0xFF (255)
+    Red     : 0x00
+Color Palette[183]: 
+    Blue    : 0x99 (153)
+    Green   : 0xFF (255)
+    Red     : 0x00
+Color Palette[184]: 
+    Blue    : 0xCC (204)
+    Green   : 0xFF (255)
+    Red     : 0x00
+Color Palette[185]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0x00
+Color Palette[186]: 
+    Blue    : 0x00
+    Green   : 0xFF (255)
+    Red     : 0x33 (51)
+Color Palette[187]: 
+    Blue    : 0x33 (51)
+    Green   : 0xFF (255)
+    Red     : 0x33 (51)
+Color Palette[188]: 
+    Blue    : 0x66 (102)
+    Green   : 0xFF (255)
+    Red     : 0x33 (51)
+Color Palette[189]: 
+    Blue    : 0x99 (153)
+    Green   : 0xFF (255)
+    Red     : 0x33 (51)
+Color Palette[190]: 
+    Blue    : 0xCC (204)
+    Green   : 0xFF (255)
+    Red     : 0x33 (51)
+Color Palette[191]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0x33 (51)
+Color Palette[192]: 
+    Blue    : 0x00
+    Green   : 0xFF (255)
+    Red     : 0x66 (102)
+Color Palette[193]: 
+    Blue    : 0x33 (51)
+    Green   : 0xFF (255)
+    Red     : 0x66 (102)
+Color Palette[194]: 
+    Blue    : 0x66 (102)
+    Green   : 0xFF (255)
+    Red     : 0x66 (102)
+Color Palette[195]: 
+    Blue    : 0x99 (153)
+    Green   : 0xFF (255)
+    Red     : 0x66 (102)
+Color Palette[196]: 
+    Blue    : 0xCC (204)
+    Green   : 0xFF (255)
+    Red     : 0x66 (102)
+Color Palette[197]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0x66 (102)
+Color Palette[198]: 
+    Blue    : 0x00
+    Green   : 0xFF (255)
+    Red     : 0x99 (153)
+Color Palette[199]: 
+    Blue    : 0x33 (51)
+    Green   : 0xFF (255)
+    Red     : 0x99 (153)
+Color Palette[200]: 
+    Blue    : 0x66 (102)
+    Green   : 0xFF (255)
+    Red     : 0x99 (153)
+Color Palette[201]: 
+    Blue    : 0x99 (153)
+    Green   : 0xFF (255)
+    Red     : 0x99 (153)
+Color Palette[202]: 
+    Blue    : 0xCC (204)
+    Green   : 0xFF (255)
+    Red     : 0x99 (153)
+Color Palette[203]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0x99 (153)
+Color Palette[204]: 
+    Blue    : 0x00
+    Green   : 0xFF (255)
+    Red     : 0xCC (204)
+Color Palette[205]: 
+    Blue    : 0x33 (51)
+    Green   : 0xFF (255)
+    Red     : 0xCC (204)
+Color Palette[206]: 
+    Blue    : 0x66 (102)
+    Green   : 0xFF (255)
+    Red     : 0xCC (204)
+Color Palette[207]: 
+    Blue    : 0x99 (153)
+    Green   : 0xFF (255)
+    Red     : 0xCC (204)
+Color Palette[208]: 
+    Blue    : 0xCC (204)
+    Green   : 0xFF (255)
+    Red     : 0xCC (204)
+Color Palette[209]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0xCC (204)
+Color Palette[210]: 
+    Blue    : 0x00
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)
+Color Palette[211]: 
+    Blue    : 0x33 (51)
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)
+Color Palette[212]: 
+    Blue    : 0x66 (102)
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)
+Color Palette[213]: 
+    Blue    : 0x99 (153)
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)
+Color Palette[214]: 
+    Blue    : 0xCC (204)
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)
+Color Palette[215]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)
+Color Palette[216]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[217]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[218]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[219]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[220]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[221]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[222]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[223]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[224]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[225]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[226]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[227]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[228]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[229]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[230]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[231]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[232]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[233]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[234]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[235]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[236]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[237]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[238]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[239]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[240]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[241]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[242]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[243]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[244]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[245]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[246]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[247]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[248]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[249]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[250]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[251]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[252]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[253]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[254]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00
+Color Palette[255]: 
+    Blue    : 0x00
+    Green   : 0x00
+    Red     : 0x00

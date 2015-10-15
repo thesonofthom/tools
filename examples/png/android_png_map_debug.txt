@@ -1,0 +1,42 @@
+---------------------------------------------------------
+PNG File Format: android.png (offset: 0, size 6346 bytes)
+---------------------------------------------------------
+NG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x00000068 (104)
+    Height            : (offset: 12, size: 4 bytes): 0x00000078 (120)
+    Bit depth         : (offset: 16, size: 1 byte): 0x08
+    Color Type        : (offset: 17, size: 1 byte): 0x06 (TrueColorWithAlpha)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x00
+    CRC               : (offset: 21, size: 4 bytes): 0x1ECAB73A (516601658)
+Chunk[0]: (offset: 33, size: 37 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000019 (25)
+    Chunk type   : (offset: 4, size: 4 bytes): "tEXt" [0x74,0x45,0x58,0x74]
+    Data: (offset: 8, size: 25 bytes): 
+        Keyword        : (offset: 0, size: 9 bytes): "Software" [0x53,0x6F,0x66,0x74,0x77,0x61,0x72,0x65,0x00]
+        Text String    : (offset: 9, size: 16 bytes): "Adobe ImageReady" [0x41,0x64,0x6F,0x62,0x65,0x20,0x49,0x6D,0x61,0x67,0x65,0x52,0x65,0x61,0x64,0x79]
+    Reserved     : (offset: 33, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 33, size: 4 bytes): 0x71C9653C (1909024060)
+Chunk[1]: (offset: 70, size: 6264 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x0000186C (6252)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 6252 bytes): 
+        Chunk Data: (offset: 0, size: 6252 bytes): {6252 bytes}
+    Reserved     : (offset: 6260, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 6260, size: 4 bytes): 0xA4E01544 (2766148932)
+Chunk[2]: (offset: 6334, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

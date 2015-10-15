@@ -1,0 +1,67 @@
+----------------------------------------------------------------
+PNG File Format: math_emporium.png (offset: 0, size 37123 bytes)
+----------------------------------------------------------------
+PNG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x00000560 (1376)
+    Height            : (offset: 12, size: 4 bytes): 0x00000448 (1096)
+    Bit depth         : (offset: 16, size: 1 byte): 0x01
+    Color Type        : (offset: 17, size: 1 byte): 0x00 (Greyscale)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x00
+    CRC               : (offset: 21, size: 4 bytes): 0xA404459F (2751743391)
+Chunk[0]: (offset: 33, size: 14 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000002
+    Chunk type   : (offset: 4, size: 4 bytes): "bKGD" [0x62,0x4B,0x47,0x44]
+    Data: (offset: 8, size: 2 bytes): 
+        Greyscale: (offset: 0, size: 2 bytes): 0x0000
+    Reserved     : (offset: 10, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 10, size: 4 bytes): 0xAA8D2332 (2861376306)
+Chunk[1]: (offset: 47, size: 21 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000009
+    Chunk type   : (offset: 4, size: 4 bytes): "pHYs" [0x70,0x48,0x59,0x73]
+    Data: (offset: 8, size: 9 bytes): 
+        Pixels Per Unit, X Axis: (offset: 0, size: 4 bytes): 0x00000048 (72)
+        Pixels Per Unit, Y Axis: (offset: 4, size: 4 bytes): 0x00000048 (72)
+        Unit Specifier         : (offset: 8, size: 1 byte): 0x00 (Unit_is_unknown)
+    Reserved     : (offset: 17, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 17, size: 4 bytes): 0x46C96B3E (1187605310)
+Chunk[2]: (offset: 68, size: 21 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000009
+    Chunk type   : (offset: 4, size: 4 bytes): "vpAg" [0x76,0x70,0x41,0x67]
+    Data: (offset: 8, size: 9 bytes): 
+        Chunk Data: (offset: 0, size: 9 bytes): 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 05 60 00 00 04 48 00 
+    Reserved     : (offset: 17, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 17, size: 4 bytes): 0x70B7F025 (1891102757)
+Chunk[3]: (offset: 89, size: 32780 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00008000 (32768)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32768 bytes): 
+        Chunk Data: (offset: 0, size: 32768 bytes): {32768 bytes}
+    Reserved     : (offset: 32776, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32776, size: 4 bytes): 0xAEEFA71B (2934941467)
+Chunk[4]: (offset: 32869, size: 4242 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00001086 (4230)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 4230 bytes): 
+        Chunk Data: (offset: 0, size: 4230 bytes): {4230 bytes}
+    Reserved     : (offset: 4238, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 4238, size: 4 bytes): 0x350ABC57 (889896023)
+Chunk[5]: (offset: 37111, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

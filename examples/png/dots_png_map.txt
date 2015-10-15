@@ -1,0 +1,229 @@
+-------------------------
+PNG File Format: dots.png
+-------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x000001D3 (467)
+    Height            : 0x000001D3 (467)
+    Bit depth         : 0x08
+    Color Type        : 0x03 (Indexed_color)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x4B20029F (1260389023)
+Chunk[0]: 
+    Length       : 0x00000090 (144)
+    Chunk type   : "PLTE" [0x50,0x4C,0x54,0x45]
+    Data: 
+        PLTE Entries[0]: 
+            Red  : 0x00
+            Green: 0x00
+            Blue : 0x00
+        PLTE Entries[1]: 
+            Red  : 0xFE (254)
+            Green: 0x0A (10)
+            Blue : 0xFE (254)
+        PLTE Entries[2]: 
+            Red  : 0xFE (254)
+            Green: 0x14 (20)
+            Blue : 0xFE (254)
+        PLTE Entries[3]: 
+            Red  : 0xFD (253)
+            Green: 0x19 (25)
+            Blue : 0xFD (253)
+        PLTE Entries[4]: 
+            Red  : 0xFC (252)
+            Green: 0x1F (31)
+            Blue : 0xFC (252)
+        PLTE Entries[5]: 
+            Red  : 0xFB (251)
+            Green: 0x26 (38)
+            Blue : 0xFB (251)
+        PLTE Entries[6]: 
+            Red  : 0xFC (252)
+            Green: 0x21 (33)
+            Blue : 0xFC (252)
+        PLTE Entries[7]: 
+            Red  : 0xFB (251)
+            Green: 0x28 (40)
+            Blue : 0xFB (251)
+        PLTE Entries[8]: 
+            Red  : 0xFA (250)
+            Green: 0x2D (45)
+            Blue : 0xFA (250)
+        PLTE Entries[9]: 
+            Red  : 0xF7 (247)
+            Green: 0x3A (58)
+            Blue : 0xF7 (247)
+        PLTE Entries[10]: 
+            Red  : 0xF6 (246)
+            Green: 0x3F (63)
+            Blue : 0xF6 (246)
+        PLTE Entries[11]: 
+            Red  : 0xF9 (249)
+            Green: 0x32 (50)
+            Blue : 0xF9 (249)
+        PLTE Entries[12]: 
+            Red  : 0xF9 (249)
+            Green: 0x34 (52)
+            Blue : 0xF9 (249)
+        PLTE Entries[13]: 
+            Red  : 0xDF (223)
+            Green: 0x77 (119)
+            Blue : 0xDF (223)
+        PLTE Entries[14]: 
+            Red  : 0xDC (220)
+            Green: 0x7C (124)
+            Blue : 0xDC (220)
+        PLTE Entries[15]: 
+            Red  : 0xEF (239)
+            Green: 0x54 (84)
+            Blue : 0xEF (239)
+        PLTE Entries[16]: 
+            Red  : 0xEF (239)
+            Green: 0x56 (86)
+            Blue : 0xEF (239)
+        PLTE Entries[17]: 
+            Red  : 0xEC (236)
+            Green: 0x5C (92)
+            Blue : 0xEC (236)
+        PLTE Entries[18]: 
+            Red  : 0xF5 (245)
+            Green: 0x41 (65)
+            Blue : 0xF5 (245)
+        PLTE Entries[19]: 
+            Red  : 0xF4 (244)
+            Green: 0x47 (71)
+            Blue : 0xF4 (244)
+        PLTE Entries[20]: 
+            Red  : 0xF3 (243)
+            Green: 0x49 (73)
+            Blue : 0xF3 (243)
+        PLTE Entries[21]: 
+            Red  : 0xF1 (241)
+            Green: 0x4E (78)
+            Blue : 0xF1 (241)
+        PLTE Entries[22]: 
+            Red  : 0xE7 (231)
+            Green: 0x69 (105)
+            Blue : 0xE7 (231)
+        PLTE Entries[23]: 
+            Red  : 0xE6 (230)
+            Green: 0x6B (107)
+            Blue : 0xE6 (230)
+        PLTE Entries[24]: 
+            Red  : 0xE9 (233)
+            Green: 0x63 (99)
+            Blue : 0xE9 (233)
+        PLTE Entries[25]: 
+            Red  : 0xEA (234)
+            Green: 0x61 (97)
+            Blue : 0xEA (234)
+        PLTE Entries[26]: 
+            Red  : 0xE3 (227)
+            Green: 0x70 (112)
+            Blue : 0xE3 (227)
+        PLTE Entries[27]: 
+            Red  : 0xE0 (224)
+            Green: 0x75 (117)
+            Blue : 0xE0 (224)
+        PLTE Entries[28]: 
+            Red  : 0xB4 (180)
+            Green: 0xAF (175)
+            Blue : 0xB4 (180)
+        PLTE Entries[29]: 
+            Red  : 0xB5 (181)
+            Green: 0xAE (174)
+            Blue : 0xB5 (181)
+        PLTE Entries[30]: 
+            Red  : 0xB6 (182)
+            Green: 0xAD (173)
+            Blue : 0xB6 (182)
+        PLTE Entries[31]: 
+            Red  : 0xBC (188)
+            Green: 0xA7 (167)
+            Blue : 0xBC (188)
+        PLTE Entries[32]: 
+            Red  : 0xBE (190)
+            Green: 0xA5 (165)
+            Blue : 0xBE (190)
+        PLTE Entries[33]: 
+            Red  : 0xB8 (184)
+            Green: 0xAB (171)
+            Blue : 0xB8 (184)
+        PLTE Entries[34]: 
+            Red  : 0xBA (186)
+            Green: 0xA9 (169)
+            Blue : 0xBA (186)
+        PLTE Entries[35]: 
+            Red  : 0xB2 (178)
+            Green: 0xB1 (177)
+            Blue : 0xB2 (178)
+        PLTE Entries[36]: 
+            Red  : 0xB3 (179)
+            Green: 0xB0 (176)
+            Blue : 0xB3 (179)
+        PLTE Entries[37]: 
+            Red  : 0xB3 (179)
+            Green: 0xB1 (177)
+            Blue : 0xB3 (179)
+        PLTE Entries[38]: 
+            Red  : 0xB2 (178)
+            Green: 0xB2 (178)
+            Blue : 0xB2 (178)
+        PLTE Entries[39]: 
+            Red  : 0xC7 (199)
+            Green: 0x9B (155)
+            Blue : 0xC7 (199)
+        PLTE Entries[40]: 
+            Red  : 0xC4 (196)
+            Green: 0x9E (158)
+            Blue : 0xC4 (196)
+        PLTE Entries[41]: 
+            Red  : 0xCA (202)
+            Green: 0x96 (150)
+            Blue : 0xCA (202)
+        PLTE Entries[42]: 
+            Red  : 0xCD (205)
+            Green: 0x92 (146)
+            Blue : 0xCD (205)
+        PLTE Entries[43]: 
+            Red  : 0xD5 (213)
+            Green: 0x87 (135)
+            Blue : 0xD5 (213)
+        PLTE Entries[44]: 
+            Red  : 0xD1 (209)
+            Green: 0x8D (141)
+            Blue : 0xD1 (209)
+        PLTE Entries[45]: 
+            Red  : 0xD8 (216)
+            Green: 0x83 (131)
+            Blue : 0xD8 (216)
+        PLTE Entries[46]: 
+            Red  : 0xC1 (193)
+            Green: 0xA1 (161)
+            Blue : 0xC1 (193)
+        PLTE Entries[47]: 
+            Red  : 0xFF (255)
+            Green: 0xFF (255)
+            Blue : 0xFF (255)
+    CRC          : 0xA3E9B38B (2750002059)
+Chunk[1]: 
+    Length       : 0x00001456 (5206)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {5206 bytes}
+    CRC          : 0x93359814 (2469763092)
+Chunk[2]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

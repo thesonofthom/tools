@@ -1,0 +1,81 @@
+------------------------------------
+PNG File Format: mushroom_shadow.png
+------------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000315 (789)
+    Height            : 0x0000031C (796)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xA9701F95 (2842697621)
+Chunk[0]: 
+    Length       : 0x00000007
+    Chunk type   : "tIME" [0x74,0x49,0x4D,0x45]
+    Data: 
+        Year  : 0x07DA (2010)
+        Month : 0x09 (September)
+        Day   : 0x1E (30)
+        Hour  : 0x11 (17)
+        Minute: 0x0B (11)
+        Second: 0x2D (45)
+    CRC          : 0x79689BCD (2036898765)
+Chunk[1]: 
+    Length       : 0x0000002C (44)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Description"
+        Text String    : "Created with Tecplot 11.3.29.563"
+    CRC          : 0xE67FC340 (3867132736)
+Chunk[2]: 
+    Length       : 0x0000000F (15)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "Title"
+        Text String   : "Frame 001"
+    CRC          : 0x6334F783 (1664415619)
+Chunk[3]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x4B11854F (1259439439)
+Chunk[4]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x95502928 (2505058600)
+Chunk[5]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x1108961F (285775391)
+Chunk[6]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xC683863D (3330508349)
+Chunk[7]: 
+    Length       : 0x00001234 (4660)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {4660 bytes}
+    CRC          : 0x6C3D6DF3 (1815965171)
+Chunk[8]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

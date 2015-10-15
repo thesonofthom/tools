@@ -1,0 +1,32 @@
+---------------------------------
+PNG File Format: pnggrad16rgb.png
+---------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000258 (600)
+    Height            : 0x00000258 (600)
+    Bit depth         : 0x10 (16)
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x6194D3C8 (1637143496)
+Chunk[0]: 
+    Length       : 0x00000F4D (3917)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {3917 bytes}
+    CRC          : 0x1889AAE2 (411675362)
+Chunk[1]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

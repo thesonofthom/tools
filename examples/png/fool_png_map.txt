@@ -1,0 +1,69 @@
+-------------------------
+PNG File Format: fool.png
+-------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000202 (514)
+    Height            : 0x00000144 (324)
+    Bit depth         : 0x01
+    Color Type        : 0x00 (Greyscale)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x7DD76B8D (2111269773)
+Chunk[0]: 
+    Length       : 0x00000002
+    Chunk type   : "bKGD" [0x62,0x4B,0x47,0x44]
+    Data: 
+        Greyscale: 0x0001
+    CRC          : 0xDD8A13A4 (3716813732)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000048 (72)
+        Pixels Per Unit, Y Axis: 0x00000048 (72)
+        Unit Specifier         : 0x00 (Unit_is_unknown)
+    CRC          : 0x46C96B3E (1187605310)
+Chunk[2]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 02 02 00 00 01 44 00 
+    CRC          : 0x5A52ED1D (1515384093)
+Chunk[3]: 
+    Length       : 0x00001C76 (7286)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {7286 bytes}
+    CRC          : 0x63421E9D (1665277597)
+Chunk[4]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2011-01-11T10:40:27-05:00"
+    CRC          : 0xD8AE59AD (3635304877)
+Chunk[5]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2011-01-11T10:40:27-05:00"
+    CRC          : 0xA9F3E111 (2851332369)
+Chunk[6]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

@@ -1,0 +1,13 @@
+--------------------------------------------------------
+BMP File Header: test8os2.bmp (offset: 0, size 26 bytes)
+--------------------------------------------------------
+Signature   : (offset: 0, size: 2 bytes): "BM" [0x42,0x4D]
+File Size   : (offset: 2, size: 4 bytes): 0x0000231A (8986)
+Reserved    : (offset: 6, size: 4 bytes): {4 bytes}
+Data Offset : (offset: 10, size: 4 bytes): 0x0000031A (794)
+DIB Header: (offset: 14, size: 12 bytes): 
+    Size          : (offset: 0, size: 4 bytes): 0x0000000C (12) (BITMAPCOREHEADER)
+    Width         : (offset: 4, size: 2 bytes): 0x007F (127)
+    Height        : (offset: 6, size: 2 bytes): 0x0040 (64)
+    Planes        : (offset: 8, size: 2 bytes): 0x0001
+    Bits-Per-Pixel: (offset: 10, size: 2 bytes): 0x0008

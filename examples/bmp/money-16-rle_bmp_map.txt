@@ -1,0 +1,83 @@
+--------------------------
+BMP File: money-16-rle.bmp
+--------------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x0000F9AE (63918)
+    Data Offset : 0x00000076 (118)
+DIB Header: 
+    Size                             : 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : 0x000001C7 (455)
+    Height                           : 0x00000155 (341)
+    Planes                           : 0x0001
+    Bits-Per-Pixel                   : 0x0004
+    Compression                      : 0x00000002 (BI_RLE4)
+    Size of Image                    : 0x0000F938 (63800)
+    Horizontal Pixels-Per-Meter      : 0x00000B12 (2834)
+    Vertical Pixels-Per-Meter        : 0x00000B12 (2834)
+    Color Indices Used               : 0x00000010 (16)
+    Number of Important Color Indices: 0x00000010 (16)
+Color Palette[0]: 
+    Blue    : 0x21 (33)
+    Green   : 0x36 (54)
+    Red     : 0x36 (54)
+Color Palette[1]: 
+    Blue    : 0x3A (58)
+    Green   : 0x57 (87)
+    Red     : 0x5F (95)
+Color Palette[2]: 
+    Blue    : 0x65 (101)
+    Green   : 0x7E (126)
+    Red     : 0x83 (131)
+Color Palette[3]: 
+    Blue    : 0xA4 (164)
+    Green   : 0xA0 (160)
+    Red     : 0x96 (150)
+Color Palette[4]: 
+    Blue    : 0x8B (139)
+    Green   : 0xA4 (164)
+    Red     : 0xCE (206)
+Color Palette[5]: 
+    Blue    : 0xBE (190)
+    Green   : 0xC1 (193)
+    Red     : 0xD1 (209)
+Color Palette[6]: 
+    Blue    : 0xD4 (212)
+    Green   : 0xDA (218)
+    Red     : 0xD6 (214)
+Color Palette[7]: 
+    Blue    : 0xD5 (213)
+    Green   : 0xE4 (228)
+    Red     : 0xF6 (246)
+Color Palette[8]: 
+    Blue    : 0xF3 (243)
+    Green   : 0xE9 (233)
+    Red     : 0xE3 (227)
+Color Palette[9]: 
+    Blue    : 0xF4 (244)
+    Green   : 0xF2 (242)
+    Red     : 0xF0 (240)
+Color Palette[10]: 
+    Blue    : 0xEF (239)
+    Green   : 0xEE (238)
+    Red     : 0xFB (251)
+Color Palette[11]: 
+    Blue    : 0xF5 (245)
+    Green   : 0xFD (253)
+    Red     : 0xF7 (247)
+Color Palette[12]: 
+    Blue    : 0xEB (235)
+    Green   : 0xFB (251)
+    Red     : 0xFF (255)
+Color Palette[13]: 
+    Blue    : 0xF7 (247)
+    Green   : 0xFB (251)
+    Red     : 0xFF (255)
+Color Palette[14]: 
+    Blue    : 0xFF (255)
+    Green   : 0xF7 (247)
+    Red     : 0xFF (255)
+Color Palette[15]: 
+    Blue    : 0xFF (255)
+    Green   : 0xFF (255)
+    Red     : 0xFF (255)

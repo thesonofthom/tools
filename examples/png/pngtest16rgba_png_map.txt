@@ -1,0 +1,38 @@
+----------------------------------
+PNG File Format: pngtest16rgba.png
+----------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000020 (32)
+    Height            : 0x00000020 (32)
+    Bit depth         : 0x10 (16)
+    Color Type        : 0x06 (TrueColorWithAlpha)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x23EAA6B7 (602580663)
+Chunk[0]: 
+    Length       : 0x00000004
+    Chunk type   : "gAMA" [0x67,0x41,0x4D,0x41]
+    Data: 
+        Gamma: 0x000186A0 (100000)
+    CRC          : 0x31E8965F (837326431)
+Chunk[1]: 
+    Length       : 0x00000D22 (3362)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {3362 bytes}
+    CRC          : 0xADDBB5F3 (2916857331)
+Chunk[2]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

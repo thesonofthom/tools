@@ -1,0 +1,1 @@
+BMP samples taken from http://samples.ffmpeg.org/image-samples/bmp-files/

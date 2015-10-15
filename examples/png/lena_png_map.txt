@@ -1,0 +1,62 @@
+-------------------------
+PNG File Format: lena.png
+-------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000200 (512)
+    Height            : 0x00000200 (512)
+    Bit depth         : 0x08
+    Color Type        : 0x00 (Greyscale)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xD1138B26 (3507718950)
+Chunk[0]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xAD13EC72 (2903764082)
+Chunk[1]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x17D87842 (400062530)
+Chunk[2]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x50072D93 (1342647699)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF8B47966 (4172577126)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8CD54E92 (2362789522)
+Chunk[5]: 
+    Length       : 0x00000C05 (3077)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {3077 bytes}
+    CRC          : 0x3FDD67F2 (1071474674)
+Chunk[6]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

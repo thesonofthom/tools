@@ -1,0 +1,24 @@
+----------------------
+BMP File: test16v3.bmp
+----------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x00020048 (131144)
+    Data Offset : 0x00000046 (70)
+DIB Header: 
+    Size                             : 0x00000038 (56) (BITMAPV3INFOHEADER)
+    Width                            : 0x00000100 (256)
+    Height                           : 0x00000100 (256)
+    Planes                           : 0x0001
+    Bits-Per-Pixel                   : 0x0010 (16)
+    Compression                      : 0x00000003 (BI_BITFIELD)
+    Size of Image                    : 0x00020002 (131074)
+    Horizontal Pixels-Per-Meter      : 0x00000B12 (2834)
+    Vertical Pixels-Per-Meter        : 0x00000B12 (2834)
+    Color Indices Used               : 0x00000000
+    Number of Important Color Indices: 0x00000000
+    Red Mask                         : 0x00000F00 (3840)
+    Green Mask                       : 0x000000F0 (240)
+    Blue Mask                        : 0x0000000F (15)
+    Alpha Mask                       : 0x00000000
+Color Palette     : []

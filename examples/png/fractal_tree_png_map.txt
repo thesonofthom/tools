@@ -1,0 +1,1630 @@
+---------------------------------
+PNG File Format: fractal_tree.png
+---------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x000008E0 (2272)
+    Height            : 0x000006A8 (1704)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xAF57A1C8 (2941755848)
+Chunk[0]: 
+    Length       : 0x00000006
+    Chunk type   : "bKGD" [0x62,0x4B,0x47,0x44]
+    Data: 
+        Red  : 0x00FF (255)
+        Green: 0x00FF (255)
+        Blue : 0x00FF (255)
+    CRC          : 0xA0BDA793 (2696783763)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00002E23 (11811)
+        Pixels Per Unit, Y Axis: 0x00002E23 (11811)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x78A53F76 (2024095606)
+Chunk[2]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1DB214CB (498209995)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xEBF76D0C (3958861068)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE492BB9A (3834821530)
+Chunk[5]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD03EF415 (3493786645)
+Chunk[6]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x3E6BB2C3 (1047245507)
+Chunk[7]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB90087A6 (3103819686)
+Chunk[8]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1E362933 (506865971)
+Chunk[9]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x69E06C17 (1776315415)
+Chunk[10]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6452E5C6 (1683154374)
+Chunk[11]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x874E05C3 (2270037443)
+Chunk[12]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x48B27AB0 (1219656368)
+Chunk[13]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC5CB601A (3318439962)
+Chunk[14]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x06D05899 (114317465)
+Chunk[15]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x095D8543 (157123907)
+Chunk[16]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD0E724C2 (3504809154)
+Chunk[17]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0943087F (155388031)
+Chunk[18]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2D15AD2E (756395310)
+Chunk[19]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC9119991 (3373373841)
+Chunk[20]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD6D81875 (3604486261)
+Chunk[21]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x82F823B1 (2197300145)
+Chunk[22]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD2C883D3 (3536356307)
+Chunk[23]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9E026495 (2650956949)
+Chunk[24]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x784FD3DE (2018497502)
+Chunk[25]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x37BA83F7 (934970359)
+Chunk[26]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD3EA8771 (3555362673)
+Chunk[27]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB77E26C1 (3078497985)
+Chunk[28]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4AFA7725 (1257928485)
+Chunk[29]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5E185723 (1578653475)
+Chunk[30]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF5C172AE (4123095726)
+Chunk[31]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8C569BA2 (2354486178)
+Chunk[32]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6CA58356 (1822786390)
+Chunk[33]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x39B9AF22 (968470306)
+Chunk[34]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x34E6EE49 (887549513)
+Chunk[35]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9CA23A1C (2627877404)
+Chunk[36]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x86BEFCF9 (2260663545)
+Chunk[37]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB7D882C2 (3084419778)
+Chunk[38]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF84D9FC0 (4165836736)
+Chunk[39]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB3B7556B (3015136619)
+Chunk[40]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC52A2533 (3307873587)
+Chunk[41]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x35E19654 (903976532)
+Chunk[42]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9C74E362 (2624906082)
+Chunk[43]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA9840BF2 (2844003314)
+Chunk[44]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF7E21013 (4158787603)
+Chunk[45]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x687FB3E7 (1753199591)
+Chunk[46]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8F3EC2A0 (2403254944)
+Chunk[47]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA3442AFC (2739153660)
+Chunk[48]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7F537643 (2136176195)
+Chunk[49]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF49A25CF (4103742927)
+Chunk[50]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC07E410D (3229499661)
+Chunk[51]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x74EC039F (1961624479)
+Chunk[52]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xEBE1B839 (3957438521)
+Chunk[53]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2B6BD83D (728487997)
+Chunk[54]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD775E110 (3614826768)
+Chunk[55]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x472AA21A (1193976346)
+Chunk[56]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x49D48100 (1238663424)
+Chunk[57]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA5426E0D (2772594189)
+Chunk[58]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCBCD6C6D (3419237485)
+Chunk[59]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x129AC634 (312133172)
+Chunk[60]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE0286D93 (3760745875)
+Chunk[61]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xAF2C8010 (2938929168)
+Chunk[62]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x85F1C1C4 (2247213508)
+Chunk[63]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x45667D67 (1164344679)
+Chunk[64]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x3FD19BAF (1070701487)
+Chunk[65]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x92510FA9 (2454785961)
+Chunk[66]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x11B4DB4A (297065290)
+Chunk[67]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD8A449AE (3634645422)
+Chunk[68]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x75F705F6 (1979123190)
+Chunk[69]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x002FE939 (3139897)
+Chunk[70]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA0B55EF5 (2696240885)
+Chunk[71]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8142715D (2168615261)
+Chunk[72]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xFE1D6D9C (4263341468)
+Chunk[73]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE415941F (3826619423)
+Chunk[74]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1B617FBC (459374524)
+Chunk[75]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xAA7784CC (2859959500)
+Chunk[76]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2CFE3422 (754856994)
+Chunk[77]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x575DB842 (1465759810)
+Chunk[78]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5851C89D (1481754781)
+Chunk[79]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8E9C4DA8 (2392608168)
+Chunk[80]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x23636FA8 (593719208)
+Chunk[81]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x76567676 (1985377910)
+Chunk[82]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2943F675 (692319861)
+Chunk[83]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x87327AF8 (2268232440)
+Chunk[84]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x580D3CAD (1477262509)
+Chunk[85]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4C3D5D75 (1279090037)
+Chunk[86]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x224525EC (574957036)
+Chunk[87]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0C7C1D48 (209460552)
+Chunk[88]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x83AEDB10 (2209274640)
+Chunk[89]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x01593803 (22624259)
+Chunk[90]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2895224C (680862284)
+Chunk[91]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7A293885 (2049521797)
+Chunk[92]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x89EC9B07 (2313984775)
+Chunk[93]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x861CF410 (2250044432)
+Chunk[94]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4924FB72 (1227160434)
+Chunk[95]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x133B5A65 (322656869)
+Chunk[96]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCCC76533 (3435619635)
+Chunk[97]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xFBA2B338 (4221743928)
+Chunk[98]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE15AD927 (3780827431)
+Chunk[99]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBAC8ED09 (3133730057)
+Chunk[100]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x95BD9139 (2512228665)
+Chunk[101]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x904EC09B (2421080219)
+Chunk[102]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBBA7FB58 (3148348248)
+Chunk[103]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x80CE597F (2161006975)
+Chunk[104]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2ADA8625 (718964261)
+Chunk[105]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x89118909 (2299627785)
+Chunk[106]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7D50AED4 (2102439636)
+Chunk[107]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBFA5355E (3215275358)
+Chunk[108]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x3DF33C56 (1039350870)
+Chunk[109]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x919219ED (2442271213)
+Chunk[110]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x704A8AE3 (1883933411)
+Chunk[111]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF7353E55 (4147461717)
+Chunk[112]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x909E5D3C (2426297660)
+Chunk[113]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x76EE0A85 (1995311749)
+Chunk[114]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1AE05AC6 (450910918)
+Chunk[115]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x281DBCCE (673037518)
+Chunk[116]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x64612BA9 (1684089769)
+Chunk[117]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x79085A32 (2030590514)
+Chunk[118]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0413671A (68380442)
+Chunk[119]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5FED4214 (1609384468)
+Chunk[120]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x82B91ADC (2193169116)
+Chunk[121]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE68AD400 (3867857920)
+Chunk[122]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1A26B81E (438745118)
+Chunk[123]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7D3A9FD3 (2100994003)
+Chunk[124]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x229CF994 (580712852)
+Chunk[125]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x702D03A1 (1881998241)
+Chunk[126]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x12D09623 (315659811)
+Chunk[127]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x572D8FF3 (1462603763)
+Chunk[128]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA3462B79 (2739284857)
+Chunk[129]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x90532594 (2421368212)
+Chunk[130]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xAF8C2792 (2945197970)
+Chunk[131]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x37FB0B18 (939199256)
+Chunk[132]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7117E79F (1897392031)
+Chunk[133]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE24EA707 (3796805383)
+Chunk[134]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF449DED8 (4098481880)
+Chunk[135]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6EC6CF7D (1858523005)
+Chunk[136]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x73EEA240 (1945018944)
+Chunk[137]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCFAEED77 (3484347767)
+Chunk[138]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBB157D77 (3138747767)
+Chunk[139]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x178A96D1 (394958545)
+Chunk[140]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x41574FE8 (1096241128)
+Chunk[141]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7ED6472A (2127972138)
+Chunk[142]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCD488FEC (3444084716)
+Chunk[143]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x21C35DDE (566451678)
+Chunk[144]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4DB41BB0 (1303649200)
+Chunk[145]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x59255D5D (1495620957)
+Chunk[146]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5C5CA741 (1549576001)
+Chunk[147]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF29D4080 (4070391936)
+Chunk[148]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE8ED44BD (3907863741)
+Chunk[149]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x03B3CD80 (62115200)
+Chunk[150]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2C0E7A96 (739146390)
+Chunk[151]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x94D14D03 (2496744707)
+Chunk[152]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xDB395148 (3677966664)
+Chunk[153]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x01906FB7 (26242999)
+Chunk[154]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xEE39E898 (3996772504)
+Chunk[155]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xAE97DEA4 (2929188516)
+Chunk[156]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBFA390F3 (3215167731)
+Chunk[157]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0F3CD28B (255644299)
+Chunk[158]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1502C7D0 (352503760)
+Chunk[159]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0AC8BC16 (180927510)
+Chunk[160]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x47C917C5 (1204361157)
+Chunk[161]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x64497804 (1682536452)
+Chunk[162]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0A3C3F61 (171720545)
+Chunk[163]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xDDA673CE (3718673358)
+Chunk[164]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA917DF8B (2836914059)
+Chunk[165]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5E62B11E (1583526174)
+Chunk[166]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4C56B034 (1280749620)
+Chunk[167]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB1B89CF7 (2981666039)
+Chunk[168]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9B37FC35 (2604137525)
+Chunk[169]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7E9426F8 (2123638520)
+Chunk[170]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xEED0D77B (4006664059)
+Chunk[171]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7D2FA31C (2100273948)
+Chunk[172]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC90DDA44 (3373128260)
+Chunk[173]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xDC600599 (3697280409)
+Chunk[174]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xDAE8D350 (3672691536)
+Chunk[175]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4BACD217 (1269617175)
+Chunk[176]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1BA35DA7 (463691175)
+Chunk[177]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x21C076FF (566261503)
+Chunk[178]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x56E86C31 (1458072625)
+Chunk[179]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB3E41FC2 (3018072002)
+Chunk[180]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x681AEB2D (1746594605)
+Chunk[181]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC532BFAB (3308437419)
+Chunk[182]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCD807C07 (3447749639)
+Chunk[183]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5B1F71B3 (1528787379)
+Chunk[184]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4D6CF81D (1298987037)
+Chunk[185]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1DBC830B (498893579)
+Chunk[186]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB0CCDEAF (2966216367)
+Chunk[187]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x046E2FCF (74330063)
+Chunk[188]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9DA713B7 (2644972471)
+Chunk[189]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xEC9D7983 (3969743235)
+Chunk[190]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC8D60788 (3369469832)
+Chunk[191]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x57BF6DAA (1472163242)
+Chunk[192]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB705C5C2 (3070608834)
+Chunk[193]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD5250810 (3575973904)
+Chunk[194]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x893FE53C (2302666044)
+Chunk[195]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE446FA7B (3829856891)
+Chunk[196]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x315635B3 (827733427)
+Chunk[197]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xAE260CAD (2921729197)
+Chunk[198]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x90BAD671 (2428163697)
+Chunk[199]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBDAAD16A (3182088554)
+Chunk[200]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF3B40306 (4088660742)
+Chunk[201]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB764B13B (3076829499)
+Chunk[202]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9D17E6E7 (2635589351)
+Chunk[203]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC3D4BAF7 (3285498615)
+Chunk[204]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xED9D0D4A (3986492746)
+Chunk[205]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC9B6B1D2 (3384193490)
+Chunk[206]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC3CC6103 (3284951299)
+Chunk[207]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6C26411A (1814446362)
+Chunk[208]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x76A1862D (1990297133)
+Chunk[209]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x820FB509 (2182067465)
+Chunk[210]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC26A8E16 (3261763094)
+Chunk[211]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4AC8920E (1254658574)
+Chunk[212]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA00C0459 (2685142105)
+Chunk[213]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x55FBBD14 (1442561300)
+Chunk[214]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE985DF70 (3917864816)
+Chunk[215]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA769FCE8 (2808741096)
+Chunk[216]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x226B1A52 (577444434)
+Chunk[217]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7608E795 (1980295061)
+Chunk[218]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x29148774 (689211252)
+Chunk[219]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE1390050 (3778609232)
+Chunk[220]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x7B147008 (2064936968)
+Chunk[221]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6CB10C6E (1823542382)
+Chunk[222]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF100D190 (4043362704)
+Chunk[223]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xFCBCE1B6 (4240236982)
+Chunk[224]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB4561AAA (3025541802)
+Chunk[225]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xDC42469F (3695330975)
+Chunk[226]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCB343FF0 (3409199088)
+Chunk[227]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB06AC662 (2959787618)
+Chunk[228]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2D70A725 (762357541)
+Chunk[229]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x048C1385 (76288901)
+Chunk[230]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9940B7CB (2571155403)
+Chunk[231]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x849CCD38 (2224868664)
+Chunk[232]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x24AD68F3 (615344371)
+Chunk[233]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA8C46225 (2831442469)
+Chunk[234]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x922A0D7C (2452229500)
+Chunk[235]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6B2DF027 (1798172711)
+Chunk[236]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xA9FAC2C0 (2851783360)
+Chunk[237]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1F54B8AD (525645997)
+Chunk[238]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0C54E6F0 (206890736)
+Chunk[239]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8A85F704 (2324035332)
+Chunk[240]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x436CF1EC (1131213292)
+Chunk[241]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x209C745E (547124318)
+Chunk[242]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x3CF6284F (1022765135)
+Chunk[243]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x36B1D8F3 (917625075)
+Chunk[244]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6D9E0283 (1839071875)
+Chunk[245]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x87B67687 (2276882055)
+Chunk[246]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x89C9A83A (2311694394)
+Chunk[247]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE1CC506E (3788263534)
+Chunk[248]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x2DB18EC0 (766611136)
+Chunk[249]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x9B96760A (2610329098)
+Chunk[250]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB6BAD7AA (3065698218)
+Chunk[251]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x633DFBB8 (1665006520)
+Chunk[252]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x69A3A185 (1772331397)
+Chunk[253]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x29238AC6 (690195142)
+Chunk[254]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xFC58E37C (4233683836)
+Chunk[255]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8D6D29C7 (2372741575)
+Chunk[256]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x33184B2F (857230127)
+Chunk[257]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x75FEEBAF (1979640751)
+Chunk[258]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBF0EE005 (3205423109)
+Chunk[259]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5F97CB38 (1603783480)
+Chunk[260]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC70B3377 (3339400055)
+Chunk[261]: 
+    Length       : 0x00001ED2 (7890)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {7890 bytes}
+    CRC          : 0xE6231F8A (3861061514)
+Chunk[262]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2011-06-11T14:31:27-04:00"
+    CRC          : 0x2C6CA1A8 (745316776)
+Chunk[263]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2011-06-11T09:40:46-04:00"
+    CRC          : 0x21F3E492 (569631890)
+Chunk[264]: 
+    Length       : 0x00000011 (17)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "jpeg:colorspace"
+        Text String   : "2"
+    CRC          : 0x2C75559F (745887135)
+Chunk[265]: 
+    Length       : 0x00000020 (32)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "jpeg:sampling-factor"
+        Text String    : "2x2,1x1,1x1"
+    CRC          : 0x49FAA6B4 (1241163444)
+Chunk[266]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

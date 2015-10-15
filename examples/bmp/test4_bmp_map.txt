@@ -1,0 +1,20 @@
+-------------------
+BMP File: test4.bmp
+-------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x00001076 (4214)
+    Data Offset : 0x00000076 (118)
+DIB Header: 
+    Size                             : 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : 0x0000007F (127)
+    Height                           : 0x00000040 (64)
+    Planes                           : 0x0001
+    Bits-Per-Pixel                   : 0x0004
+    Compression                      : 0x00000000 (BI_RGB)
+    Size of Image                    : 0x00001000 (4096)
+    Horizontal Pixels-Per-Meter      : 0x00000000
+    Vertical Pixels-Per-Meter        : 0x00000000
+    Color Indices Used               : 0x00000000
+    Number of Important Color Indices: 0x00000000
+Color Palette     : []

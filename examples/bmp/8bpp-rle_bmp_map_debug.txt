@@ -1,0 +1,1300 @@
+---------------------------------------------------
+BMP File: 8bpp-rle.bmp (offset: 0, size 1078 bytes)
+---------------------------------------------------
+Bitmap File Header: (offset: 0, size: 14 bytes): 
+    Signature   : (offset: 0, size: 2 bytes): "BM" [0x42,0x4D]
+    File Size   : (offset: 2, size: 4 bytes): 0x00000C1C (3100)
+    Reserved    : (offset: 6, size: 4 bytes): {4 bytes}
+    Data Offset : (offset: 10, size: 4 bytes): 0x00000436 (1078)
+DIB Header: (offset: 14, size: 40 bytes): 
+    Size                             : (offset: 0, size: 4 bytes): 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : (offset: 4, size: 4 bytes): 0x00000047 (71)
+    Height                           : (offset: 8, size: 4 bytes): 0x0000006B (107)
+    Planes                           : (offset: 12, size: 2 bytes): 0x0001
+    Bits-Per-Pixel                   : (offset: 14, size: 2 bytes): 0x0008
+    Compression                      : (offset: 16, size: 4 bytes): 0x00000001 (BI_RLE8)
+    Size of Image                    : (offset: 20, size: 4 bytes): 0x000007E6 (2022)
+    Horizontal Pixels-Per-Meter      : (offset: 24, size: 4 bytes): 0x00000B12 (2834)
+    Vertical Pixels-Per-Meter        : (offset: 28, size: 4 bytes): 0x00000B12 (2834)
+    Color Indices Used               : (offset: 32, size: 4 bytes): 0x00000100 (256)
+    Number of Important Color Indices: (offset: 36, size: 4 bytes): 0x00000100 (256)
+Color Palette[0]: (offset: 54, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[1]: (offset: 58, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[2]: (offset: 62, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[3]: (offset: 66, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[4]: (offset: 70, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[5]: (offset: 74, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[6]: (offset: 78, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[7]: (offset: 82, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[8]: (offset: 86, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[9]: (offset: 90, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[10]: (offset: 94, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[11]: (offset: 98, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[12]: (offset: 102, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[13]: (offset: 106, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[14]: (offset: 110, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[15]: (offset: 114, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[16]: (offset: 118, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[17]: (offset: 122, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[18]: (offset: 126, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[19]: (offset: 130, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[20]: (offset: 134, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[21]: (offset: 138, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[22]: (offset: 142, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[23]: (offset: 146, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[24]: (offset: 150, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[25]: (offset: 154, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[26]: (offset: 158, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[27]: (offset: 162, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[28]: (offset: 166, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[29]: (offset: 170, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[30]: (offset: 174, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[31]: (offset: 178, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[32]: (offset: 182, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[33]: (offset: 186, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[34]: (offset: 190, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[35]: (offset: 194, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[36]: (offset: 198, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[37]: (offset: 202, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[38]: (offset: 206, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[39]: (offset: 210, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[40]: (offset: 214, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[41]: (offset: 218, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[42]: (offset: 222, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[43]: (offset: 226, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[44]: (offset: 230, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[45]: (offset: 234, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[46]: (offset: 238, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[47]: (offset: 242, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[48]: (offset: 246, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[49]: (offset: 250, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[50]: (offset: 254, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[51]: (offset: 258, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[52]: (offset: 262, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[53]: (offset: 266, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[54]: (offset: 270, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[55]: (offset: 274, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[56]: (offset: 278, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[57]: (offset: 282, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[58]: (offset: 286, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[59]: (offset: 290, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[60]: (offset: 294, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[61]: (offset: 298, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[62]: (offset: 302, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[63]: (offset: 306, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[64]: (offset: 310, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[65]: (offset: 314, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[66]: (offset: 318, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[67]: (offset: 322, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[68]: (offset: 326, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[69]: (offset: 330, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[70]: (offset: 334, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[71]: (offset: 338, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x33 (51)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[72]: (offset: 342, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[73]: (offset: 346, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[74]: (offset: 350, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[75]: (offset: 354, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[76]: (offset: 358, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[77]: (offset: 362, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[78]: (offset: 366, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[79]: (offset: 370, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[80]: (offset: 374, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[81]: (offset: 378, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[82]: (offset: 382, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[83]: (offset: 386, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[84]: (offset: 390, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[85]: (offset: 394, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[86]: (offset: 398, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[87]: (offset: 402, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[88]: (offset: 406, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[89]: (offset: 410, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[90]: (offset: 414, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[91]: (offset: 418, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[92]: (offset: 422, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[93]: (offset: 426, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[94]: (offset: 430, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[95]: (offset: 434, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[96]: (offset: 438, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[97]: (offset: 442, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[98]: (offset: 446, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[99]: (offset: 450, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[100]: (offset: 454, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[101]: (offset: 458, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[102]: (offset: 462, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[103]: (offset: 466, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[104]: (offset: 470, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[105]: (offset: 474, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[106]: (offset: 478, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[107]: (offset: 482, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x66 (102)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[108]: (offset: 486, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[109]: (offset: 490, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[110]: (offset: 494, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[111]: (offset: 498, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[112]: (offset: 502, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[113]: (offset: 506, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[114]: (offset: 510, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[115]: (offset: 514, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[116]: (offset: 518, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[117]: (offset: 522, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[118]: (offset: 526, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[119]: (offset: 530, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[120]: (offset: 534, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[121]: (offset: 538, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[122]: (offset: 542, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[123]: (offset: 546, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[124]: (offset: 550, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[125]: (offset: 554, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[126]: (offset: 558, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[127]: (offset: 562, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[128]: (offset: 566, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[129]: (offset: 570, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[130]: (offset: 574, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[131]: (offset: 578, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[132]: (offset: 582, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[133]: (offset: 586, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[134]: (offset: 590, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[135]: (offset: 594, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[136]: (offset: 598, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[137]: (offset: 602, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[138]: (offset: 606, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[139]: (offset: 610, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[140]: (offset: 614, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[141]: (offset: 618, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[142]: (offset: 622, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[143]: (offset: 626, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0x99 (153)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[144]: (offset: 630, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[145]: (offset: 634, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[146]: (offset: 638, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[147]: (offset: 642, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[148]: (offset: 646, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[149]: (offset: 650, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[150]: (offset: 654, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[151]: (offset: 658, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[152]: (offset: 662, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[153]: (offset: 666, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[154]: (offset: 670, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[155]: (offset: 674, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[156]: (offset: 678, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[157]: (offset: 682, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[158]: (offset: 686, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[159]: (offset: 690, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[160]: (offset: 694, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[161]: (offset: 698, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[162]: (offset: 702, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[163]: (offset: 706, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[164]: (offset: 710, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[165]: (offset: 714, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[166]: (offset: 718, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[167]: (offset: 722, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[168]: (offset: 726, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[169]: (offset: 730, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[170]: (offset: 734, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[171]: (offset: 738, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[172]: (offset: 742, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[173]: (offset: 746, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[174]: (offset: 750, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[175]: (offset: 754, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[176]: (offset: 758, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[177]: (offset: 762, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[178]: (offset: 766, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[179]: (offset: 770, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xCC (204)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[180]: (offset: 774, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[181]: (offset: 778, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[182]: (offset: 782, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[183]: (offset: 786, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[184]: (offset: 790, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[185]: (offset: 794, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[186]: (offset: 798, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[187]: (offset: 802, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[188]: (offset: 806, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[189]: (offset: 810, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[190]: (offset: 814, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[191]: (offset: 818, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x33 (51)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[192]: (offset: 822, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[193]: (offset: 826, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[194]: (offset: 830, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[195]: (offset: 834, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[196]: (offset: 838, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[197]: (offset: 842, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x66 (102)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[198]: (offset: 846, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[199]: (offset: 850, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[200]: (offset: 854, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[201]: (offset: 858, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[202]: (offset: 862, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[203]: (offset: 866, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0x99 (153)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[204]: (offset: 870, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[205]: (offset: 874, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[206]: (offset: 878, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[207]: (offset: 882, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[208]: (offset: 886, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[209]: (offset: 890, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xCC (204)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[210]: (offset: 894, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[211]: (offset: 898, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x33 (51)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[212]: (offset: 902, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x66 (102)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[213]: (offset: 906, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x99 (153)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[214]: (offset: 910, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xCC (204)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[215]: (offset: 914, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0xFF (255)
+    Green   : (offset: 1, size: 1 byte): 0xFF (255)
+    Red     : (offset: 2, size: 1 byte): 0xFF (255)
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[216]: (offset: 918, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[217]: (offset: 922, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[218]: (offset: 926, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[219]: (offset: 930, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[220]: (offset: 934, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[221]: (offset: 938, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[222]: (offset: 942, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[223]: (offset: 946, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[224]: (offset: 950, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[225]: (offset: 954, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[226]: (offset: 958, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[227]: (offset: 962, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[228]: (offset: 966, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[229]: (offset: 970, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[230]: (offset: 974, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[231]: (offset: 978, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[232]: (offset: 982, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[233]: (offset: 986, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[234]: (offset: 990, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[235]: (offset: 994, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[236]: (offset: 998, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[237]: (offset: 1002, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[238]: (offset: 1006, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[239]: (offset: 1010, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[240]: (offset: 1014, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[241]: (offset: 1018, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[242]: (offset: 1022, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[243]: (offset: 1026, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[244]: (offset: 1030, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[245]: (offset: 1034, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[246]: (offset: 1038, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[247]: (offset: 1042, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[248]: (offset: 1046, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[249]: (offset: 1050, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[250]: (offset: 1054, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[251]: (offset: 1058, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[252]: (offset: 1062, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[253]: (offset: 1066, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[254]: (offset: 1070, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}
+Color Palette[255]: (offset: 1074, size: 4 bytes): 
+    Blue    : (offset: 0, size: 1 byte): 0x00
+    Green   : (offset: 1, size: 1 byte): 0x00
+    Red     : (offset: 2, size: 1 byte): 0x00
+    Reserved: (offset: 3, size: 1 byte): {1 byte}

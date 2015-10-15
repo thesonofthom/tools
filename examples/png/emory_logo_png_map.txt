@@ -1,0 +1,96 @@
+-------------------------------
+PNG File Format: emory_logo.png
+-------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x0000010C (268)
+    Height            : 0x000000D8 (216)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x91364A49 (2436254281)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000064 (100)
+        Pixels Per Unit, Y Axis: 0x00000064 (100)
+        Unit Specifier         : 0x00 (Unit_is_unknown)
+    CRC          : 0x0F96C5DD (261539293)
+Chunk[1]: 
+    Length       : 0x00000046 (70)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Raw profile type APP12"
+        Text String    : "APP12      154475636b79000100040000000a0000" [0x0A,0x41,0x50,0x50,0x31,0x32,0x0A,0x20,0x20,0x20,0x20,0x20,0x20,0x31,0x35,0x0A,0x34,0x34,0x37,0x35,0x36,0x33,0x36,0x62,0x37,0x39,0x30,0x30,0x30,0x31,0x30,0x30,0x30,0x34,0x30,0x30,0x30,0x30,0x30,0x30,0x30,0x61,0x30,0x30,0x30,0x30,0x0A]
+    CRC          : 0xDB19518A (3675869578)
+Chunk[2]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 01 0C 00 00 00 D8 00 
+    CRC          : 0x8D8639D1 (2374384081)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8B32AB0E (2335353614)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB058B8ED (2958604525)
+Chunk[5]: 
+    Length       : 0x00003ADE (15070)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {15070 bytes}
+    CRC          : 0xDAB46B60 (3669257056)
+Chunk[6]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2010-10-22T17:16:38-04:00"
+    CRC          : 0x8435A44A (2218107978)
+Chunk[7]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2010-10-22T17:16:38-04:00"
+    CRC          : 0xF5681CF6 (4117241078)
+Chunk[8]: 
+    Length       : 0x00000011 (17)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "jpeg:colorspace"
+        Text String   : "2"
+    CRC          : 0x2C75559F (745887135)
+Chunk[9]: 
+    Length       : 0x00000020 (32)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "jpeg:sampling-factor"
+        Text String    : "2x2,1x1,1x1"
+    CRC          : 0x49FAA6B4 (1241163444)
+Chunk[10]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

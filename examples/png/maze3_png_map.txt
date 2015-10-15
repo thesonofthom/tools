@@ -1,0 +1,54 @@
+--------------------------
+PNG File Format: maze3.png
+--------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x0000017D (381)
+    Height            : 0x0000017D (381)
+    Bit depth         : 0x08
+    Color Type        : 0x06 (TrueColorWithAlpha)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xE879B851 (3900291153)
+Chunk[0]: 
+    Length       : 0x000002EE (750)
+    Chunk type   : "iCCP" [0x69,0x43,0x43,0x50]
+    Data: 
+        Profile Name      : "ICC Profile"
+        Compression Method: 0x00
+        Compressed Data   : {737 bytes}
+    CRC          : 0xC0788B89 (3229125513)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000B13 (2835)
+        Pixels Per Unit, Y Axis: 0x00000B13 (2835)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x009A9C18 (10132504)
+Chunk[2]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xC71E4156 (3340648790)
+Chunk[3]: 
+    Length       : 0x00001938 (6456)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {6456 bytes}
+    CRC          : 0x7474AA84 (1953802884)
+Chunk[4]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

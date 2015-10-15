@@ -1,0 +1,39 @@
+----------------------------
+PNG File Format: android.png
+----------------------------
+NG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000068 (104)
+    Height            : 0x00000078 (120)
+    Bit depth         : 0x08
+    Color Type        : 0x06 (TrueColorWithAlpha)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x1ECAB73A (516601658)
+Chunk[0]: 
+    Length       : 0x00000019 (25)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Software"
+        Text String    : "Adobe ImageReady"
+    CRC          : 0x71C9653C (1909024060)
+Chunk[1]: 
+    Length       : 0x0000186C (6252)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {6252 bytes}
+    CRC          : 0xA4E01544 (2766148932)
+Chunk[2]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

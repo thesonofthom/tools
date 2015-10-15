@@ -1,0 +1,374 @@
+----------------------------------------------------------
+PNG File Format: pengbrew.png (offset: 0, size 5804 bytes)
+----------------------------------------------------------
+PNG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x000000A0 (160)
+    Height            : (offset: 12, size: 4 bytes): 0x000000A0 (160)
+    Bit depth         : (offset: 16, size: 1 byte): 0x08
+    Color Type        : (offset: 17, size: 1 byte): 0x03 (Indexed_color)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x01
+    CRC               : (offset: 21, size: 4 bytes): 0xCB16A789 (3407259529)
+Chunk[0]: (offset: 33, size: 249 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x000000ED (237)
+    Chunk type   : (offset: 4, size: 4 bytes): "PLTE" [0x50,0x4C,0x54,0x45]
+    Data: (offset: 8, size: 237 bytes): 
+        PLTE Entries[0]: (offset: 0, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xFF (255)
+            Green: (offset: 1, size: 1 byte): 0xFF (255)
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[1]: (offset: 3, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x00
+            Green: (offset: 1, size: 1 byte): 0x00
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[2]: (offset: 6, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x08
+            Green: (offset: 1, size: 1 byte): 0x08
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[3]: (offset: 9, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x18 (24)
+            Green: (offset: 1, size: 1 byte): 0x18 (24)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[4]: (offset: 12, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x30 (48)
+            Green: (offset: 1, size: 1 byte): 0x28 (40)
+            Blue : (offset: 2, size: 1 byte): 0x30 (48)
+        PLTE Entries[5]: (offset: 15, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x28 (40)
+            Green: (offset: 1, size: 1 byte): 0x20 (32)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[6]: (offset: 18, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x10 (16)
+            Green: (offset: 1, size: 1 byte): 0x10 (16)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[7]: (offset: 21, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x48 (72)
+            Green: (offset: 1, size: 1 byte): 0x48 (72)
+            Blue : (offset: 2, size: 1 byte): 0x48 (72)
+        PLTE Entries[8]: (offset: 24, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x80 (128)
+            Green: (offset: 1, size: 1 byte): 0x68 (104)
+            Blue : (offset: 2, size: 1 byte): 0x50 (80)
+        PLTE Entries[9]: (offset: 27, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x58 (88)
+            Green: (offset: 1, size: 1 byte): 0x54 (84)
+            Blue : (offset: 2, size: 1 byte): 0x50 (80)
+        PLTE Entries[10]: (offset: 30, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x80 (128)
+            Green: (offset: 1, size: 1 byte): 0x80 (128)
+            Blue : (offset: 2, size: 1 byte): 0x80 (128)
+        PLTE Entries[11]: (offset: 33, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x38 (56)
+            Green: (offset: 1, size: 1 byte): 0x38 (56)
+            Blue : (offset: 2, size: 1 byte): 0x30 (48)
+        PLTE Entries[12]: (offset: 36, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xA0 (160)
+            Green: (offset: 1, size: 1 byte): 0x94 (148)
+            Blue : (offset: 2, size: 1 byte): 0x90 (144)
+        PLTE Entries[13]: (offset: 39, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC8 (200)
+            Green: (offset: 1, size: 1 byte): 0xB4 (180)
+            Blue : (offset: 2, size: 1 byte): 0x90 (144)
+        PLTE Entries[14]: (offset: 42, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC0 (192)
+            Green: (offset: 1, size: 1 byte): 0xC0 (192)
+            Blue : (offset: 2, size: 1 byte): 0xC0 (192)
+        PLTE Entries[15]: (offset: 45, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xB0 (176)
+            Green: (offset: 1, size: 1 byte): 0xB0 (176)
+            Blue : (offset: 2, size: 1 byte): 0xB0 (176)
+        PLTE Entries[16]: (offset: 48, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD0 (208)
+            Green: (offset: 1, size: 1 byte): 0xCC (204)
+            Blue : (offset: 2, size: 1 byte): 0xC8 (200)
+        PLTE Entries[17]: (offset: 51, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE8 (232)
+            Green: (offset: 1, size: 1 byte): 0xE4 (228)
+            Blue : (offset: 2, size: 1 byte): 0xE0 (224)
+        PLTE Entries[18]: (offset: 54, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE8 (232)
+            Green: (offset: 1, size: 1 byte): 0xEC (236)
+            Blue : (offset: 2, size: 1 byte): 0xF0 (240)
+        PLTE Entries[19]: (offset: 57, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF8 (248)
+            Green: (offset: 1, size: 1 byte): 0xF8 (248)
+            Blue : (offset: 2, size: 1 byte): 0xF8 (248)
+        PLTE Entries[20]: (offset: 60, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x80 (128)
+            Green: (offset: 1, size: 1 byte): 0x58 (88)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[21]: (offset: 63, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x80 (128)
+            Green: (offset: 1, size: 1 byte): 0x48 (72)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[22]: (offset: 66, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x68 (104)
+            Green: (offset: 1, size: 1 byte): 0x38 (56)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[23]: (offset: 69, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF0 (240)
+            Green: (offset: 1, size: 1 byte): 0xC8 (200)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[24]: (offset: 72, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF0 (240)
+            Green: (offset: 1, size: 1 byte): 0xB4 (180)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[25]: (offset: 75, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD8 (216)
+            Green: (offset: 1, size: 1 byte): 0xB0 (176)
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[26]: (offset: 78, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF0 (240)
+            Green: (offset: 1, size: 1 byte): 0xC4 (196)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[27]: (offset: 81, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC0 (192)
+            Green: (offset: 1, size: 1 byte): 0x78 (120)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[28]: (offset: 84, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD8 (216)
+            Green: (offset: 1, size: 1 byte): 0x9C (156)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[29]: (offset: 87, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC0 (192)
+            Green: (offset: 1, size: 1 byte): 0x88 (136)
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[30]: (offset: 90, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF8 (248)
+            Green: (offset: 1, size: 1 byte): 0xB8 (184)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[31]: (offset: 93, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x78 (120)
+            Green: (offset: 1, size: 1 byte): 0x80 (128)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[32]: (offset: 96, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE0 (224)
+            Green: (offset: 1, size: 1 byte): 0xC8 (200)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[33]: (offset: 99, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x40 (64)
+            Green: (offset: 1, size: 1 byte): 0x20 (32)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[34]: (offset: 102, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xA8 (168)
+            Green: (offset: 1, size: 1 byte): 0x68 (104)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[35]: (offset: 105, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE8 (232)
+            Green: (offset: 1, size: 1 byte): 0xB0 (176)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[36]: (offset: 108, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF0 (240)
+            Green: (offset: 1, size: 1 byte): 0xB8 (184)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[37]: (offset: 111, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xB8 (184)
+            Green: (offset: 1, size: 1 byte): 0x90 (144)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[38]: (offset: 114, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC8 (200)
+            Green: (offset: 1, size: 1 byte): 0xB8 (184)
+            Blue : (offset: 2, size: 1 byte): 0xB0 (176)
+        PLTE Entries[39]: (offset: 117, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC8 (200)
+            Green: (offset: 1, size: 1 byte): 0xBC (188)
+            Blue : (offset: 2, size: 1 byte): 0xB0 (176)
+        PLTE Entries[40]: (offset: 120, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD8 (216)
+            Green: (offset: 1, size: 1 byte): 0xCC (204)
+            Blue : (offset: 2, size: 1 byte): 0xA0 (160)
+        PLTE Entries[41]: (offset: 123, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE8 (232)
+            Green: (offset: 1, size: 1 byte): 0xD0 (208)
+            Blue : (offset: 2, size: 1 byte): 0xB0 (176)
+        PLTE Entries[42]: (offset: 126, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xF0 (240)
+            Green: (offset: 1, size: 1 byte): 0xD8 (216)
+            Blue : (offset: 2, size: 1 byte): 0xB0 (176)
+        PLTE Entries[43]: (offset: 129, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC8 (200)
+            Green: (offset: 1, size: 1 byte): 0xC0 (192)
+            Blue : (offset: 2, size: 1 byte): 0x90 (144)
+        PLTE Entries[44]: (offset: 132, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE8 (232)
+            Green: (offset: 1, size: 1 byte): 0xC0 (192)
+            Blue : (offset: 2, size: 1 byte): 0x80 (128)
+        PLTE Entries[45]: (offset: 135, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x78 (120)
+            Green: (offset: 1, size: 1 byte): 0x7C (124)
+            Blue : (offset: 2, size: 1 byte): 0x70 (112)
+        PLTE Entries[46]: (offset: 138, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD8 (216)
+            Green: (offset: 1, size: 1 byte): 0xC0 (192)
+            Blue : (offset: 2, size: 1 byte): 0x80 (128)
+        PLTE Entries[47]: (offset: 141, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x98 (152)
+            Green: (offset: 1, size: 1 byte): 0x9C (156)
+            Blue : (offset: 2, size: 1 byte): 0x98 (152)
+        PLTE Entries[48]: (offset: 144, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD8 (216)
+            Green: (offset: 1, size: 1 byte): 0xC8 (200)
+            Blue : (offset: 2, size: 1 byte): 0x68 (104)
+        PLTE Entries[49]: (offset: 147, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD8 (216)
+            Green: (offset: 1, size: 1 byte): 0xA8 (168)
+            Blue : (offset: 2, size: 1 byte): 0x68 (104)
+        PLTE Entries[50]: (offset: 150, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xE0 (224)
+            Green: (offset: 1, size: 1 byte): 0xAC (172)
+            Blue : (offset: 2, size: 1 byte): 0x60 (96)
+        PLTE Entries[51]: (offset: 153, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC8 (200)
+            Green: (offset: 1, size: 1 byte): 0x9C (156)
+            Blue : (offset: 2, size: 1 byte): 0x58 (88)
+        PLTE Entries[52]: (offset: 156, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD0 (208)
+            Green: (offset: 1, size: 1 byte): 0xA0 (160)
+            Blue : (offset: 2, size: 1 byte): 0x60 (96)
+        PLTE Entries[53]: (offset: 159, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC0 (192)
+            Green: (offset: 1, size: 1 byte): 0x94 (148)
+            Blue : (offset: 2, size: 1 byte): 0x30 (48)
+        PLTE Entries[54]: (offset: 162, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x98 (152)
+            Green: (offset: 1, size: 1 byte): 0x70 (112)
+            Blue : (offset: 2, size: 1 byte): 0x28 (40)
+        PLTE Entries[55]: (offset: 165, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x68 (104)
+            Green: (offset: 1, size: 1 byte): 0x54 (84)
+            Blue : (offset: 2, size: 1 byte): 0x30 (48)
+        PLTE Entries[56]: (offset: 168, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xB0 (176)
+            Green: (offset: 1, size: 1 byte): 0x94 (148)
+            Blue : (offset: 2, size: 1 byte): 0x30 (48)
+        PLTE Entries[57]: (offset: 171, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x40 (64)
+            Green: (offset: 1, size: 1 byte): 0x28 (40)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[58]: (offset: 174, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC0 (192)
+            Green: (offset: 1, size: 1 byte): 0x78 (120)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[59]: (offset: 177, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x78 (120)
+            Green: (offset: 1, size: 1 byte): 0x5C (92)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[60]: (offset: 180, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x38 (56)
+            Green: (offset: 1, size: 1 byte): 0x2C (44)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[61]: (offset: 183, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xA8 (168)
+            Green: (offset: 1, size: 1 byte): 0x68 (104)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[62]: (offset: 186, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xD0 (208)
+            Green: (offset: 1, size: 1 byte): 0x80 (128)
+            Blue : (offset: 2, size: 1 byte): 0x20 (32)
+        PLTE Entries[63]: (offset: 189, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x90 (144)
+            Green: (offset: 1, size: 1 byte): 0x58 (88)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[64]: (offset: 192, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x68 (104)
+            Green: (offset: 1, size: 1 byte): 0x3C (60)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[65]: (offset: 195, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x48 (72)
+            Green: (offset: 1, size: 1 byte): 0x68 (104)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[66]: (offset: 198, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xC8 (200)
+            Green: (offset: 1, size: 1 byte): 0x90 (144)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[67]: (offset: 201, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x50 (80)
+            Green: (offset: 1, size: 1 byte): 0x34 (52)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[68]: (offset: 204, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xA0 (160)
+            Green: (offset: 1, size: 1 byte): 0x80 (128)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[69]: (offset: 207, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0xA0 (160)
+            Green: (offset: 1, size: 1 byte): 0x9C (156)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[70]: (offset: 210, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x58 (88)
+            Green: (offset: 1, size: 1 byte): 0x90 (144)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[71]: (offset: 213, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x30 (48)
+            Green: (offset: 1, size: 1 byte): 0xA0 (160)
+            Blue : (offset: 2, size: 1 byte): 0x08
+        PLTE Entries[72]: (offset: 216, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x20 (32)
+            Green: (offset: 1, size: 1 byte): 0x1C (28)
+            Blue : (offset: 2, size: 1 byte): 0x10 (16)
+        PLTE Entries[73]: (offset: 219, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x18 (24)
+            Green: (offset: 1, size: 1 byte): 0x10 (16)
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[74]: (offset: 222, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x08
+            Green: (offset: 1, size: 1 byte): 0x04
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[75]: (offset: 225, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x58 (88)
+            Green: (offset: 1, size: 1 byte): 0xC4 (196)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[76]: (offset: 228, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x38 (56)
+            Green: (offset: 1, size: 1 byte): 0x1C (28)
+            Blue : (offset: 2, size: 1 byte): 0x38 (56)
+        PLTE Entries[77]: (offset: 231, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x20 (32)
+            Green: (offset: 1, size: 1 byte): 0xC8 (200)
+            Blue : (offset: 2, size: 1 byte): 0x18 (24)
+        PLTE Entries[78]: (offset: 234, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x28 (40)
+            Green: (offset: 1, size: 1 byte): 0x84 (132)
+            Blue : (offset: 2, size: 1 byte): 0x20 (32)
+    Reserved     : (offset: 245, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 245, size: 4 bytes): 0x9280C5B8 (2457912760)
+Chunk[1]: (offset: 282, size: 13 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000001
+    Chunk type   : (offset: 4, size: 4 bytes): "tRNS" [0x74,0x52,0x4E,0x53]
+    Data: (offset: 8, size: 1 byte): 
+        Alpha for Palette Indexes: (offset: 0, size: 1 byte): 
+                    0 
+                   -- 
+            0x0X | 00 
+    Reserved     : (offset: 9, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 9, size: 4 bytes): 0x40E6D866 (1088870502)
+Chunk[2]: (offset: 295, size: 39 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x0000001B (27)
+    Chunk type   : (offset: 4, size: 4 bytes): "tEXt" [0x74,0x45,0x58,0x74]
+    Data: (offset: 8, size: 27 bytes): 
+        Keyword        : (offset: 0, size: 9 bytes): "Software" [0x53,0x6F,0x66,0x74,0x77,0x61,0x72,0x65,0x00]
+        Text String    : (offset: 9, size: 18 bytes): "gif2png 0.6 (beta)" [0x67,0x69,0x66,0x32,0x70,0x6E,0x67,0x20,0x30,0x2E,0x36,0x20,0x28,0x62,0x65,0x74,0x61,0x29]
+    Reserved     : (offset: 35, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 35, size: 4 bytes): 0xAADD6992 (2866637202)
+Chunk[3]: (offset: 334, size: 5458 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00001546 (5446)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 5446 bytes): 
+        Chunk Data: (offset: 0, size: 5446 bytes): {5446 bytes}
+    Reserved     : (offset: 5454, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 5454, size: 4 bytes): 0xC4288264 (3290989156)
+Chunk[4]: (offset: 5792, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

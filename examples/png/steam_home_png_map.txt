@@ -1,0 +1,61 @@
+-------------------------------
+PNG File Format: steam_home.png
+-------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000043 (67)
+    Height            : 0x00000043 (67)
+    Bit depth         : 0x08
+    Color Type        : 0x06 (TrueColorWithAlpha)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xC7CAB873 (3351951475)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000B13 (2835)
+        Pixels Per Unit, Y Axis: 0x00000B13 (2835)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x009A9C18 (10132504)
+Chunk[1]: 
+    Length       : 0x00000A4F (2639)
+    Chunk type   : "iCCP" [0x69,0x43,0x43,0x50]
+    Data: 
+        Profile Name      : "Photoshop ICC profile"
+        Compression Method: 0x00
+        Compressed Data   : {2616 bytes}
+    CRC          : 0x63332DDB (1664298459)
+Chunk[2]: 
+    Length       : 0x00000020 (32)
+    Chunk type   : "cHRM" [0x63,0x48,0x52,0x4D]
+    Data: 
+        White Point X: 0x00007A25 (31269)
+        White Point Y: 0x00008083 (32899)
+        Red X        : 0x0000F9FF (63999)
+        Red Y        : 0x000080E9 (33001)
+        Green X      : 0x00007530 (30000)
+        Green Y      : 0x0000EA60 (60000)
+        Blue X       : 0x00003A98 (15000)
+        Blue Y       : 0x0000176F (5999)
+    CRC          : 0x925FC546 (2455749958)
+Chunk[3]: 
+    Length       : 0x000011FC (4604)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {4604 bytes}
+    CRC          : 0xA7B9BC92 (2813967506)
+Chunk[4]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

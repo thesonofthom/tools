@@ -1,0 +1,868 @@
+---------------------------
+PNG File Format: pngnow.png
+---------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000062 (98)
+    Height            : 0x0000001F (31)
+    Bit depth         : 0x08
+    Color Type        : 0x03 (Indexed_color)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x2BC7E823 (734521379)
+Chunk[0]: 
+    Length       : 0x00000004
+    Chunk type   : "gAMA" [0x67,0x41,0x4D,0x41]
+    Data: 
+        Gamma: 0x0000B18F (45455)
+    CRC          : 0x0BFC6105 (201089285)
+Chunk[1]: 
+    Length       : 0x00000001
+    Chunk type   : "sRGB" [0x73,0x52,0x47,0x42]
+    Data: 
+        Rendering Intent: 0x00 (Perceptual)
+    CRC          : 0xAECE1CE9 (2932743401)
+Chunk[2]: 
+    Length       : 0x00000261 (609)
+    Chunk type   : "PLTE" [0x50,0x4C,0x54,0x45]
+    Data: 
+        PLTE Entries[0]: 
+            Red  : 0xFC (252)
+            Green: 0xFE (254)
+            Blue : 0xFC (252)
+        PLTE Entries[1]: 
+            Red  : 0x04
+            Green: 0x02
+            Blue : 0x04
+        PLTE Entries[2]: 
+            Red  : 0xCC (204)
+            Green: 0xCE (206)
+            Blue : 0xCC (204)
+        PLTE Entries[3]: 
+            Red  : 0xCC (204)
+            Green: 0x02
+            Blue : 0x04
+        PLTE Entries[4]: 
+            Red  : 0x9C (156)
+            Green: 0x02
+            Blue : 0x04
+        PLTE Entries[5]: 
+            Red  : 0xCC (204)
+            Green: 0x02
+            Blue : 0x34 (52)
+        PLTE Entries[6]: 
+            Red  : 0x7C (124)
+            Green: 0x8A (138)
+            Blue : 0x74 (116)
+        PLTE Entries[7]: 
+            Red  : 0x54 (84)
+            Green: 0x5E (94)
+            Blue : 0x5C (92)
+        PLTE Entries[8]: 
+            Red  : 0x5C (92)
+            Green: 0x6A (106)
+            Blue : 0x6C (108)
+        PLTE Entries[9]: 
+            Red  : 0x54 (84)
+            Green: 0x7A (122)
+            Blue : 0x64 (100)
+        PLTE Entries[10]: 
+            Red  : 0x64 (100)
+            Green: 0x7E (126)
+            Blue : 0x84 (132)
+        PLTE Entries[11]: 
+            Red  : 0x5C (92)
+            Green: 0x6A (106)
+            Blue : 0x7C (124)
+        PLTE Entries[12]: 
+            Red  : 0x5C (92)
+            Green: 0x6A (106)
+            Blue : 0x74 (116)
+        PLTE Entries[13]: 
+            Red  : 0x54 (84)
+            Green: 0x62 (98)
+            Blue : 0x64 (100)
+        PLTE Entries[14]: 
+            Red  : 0x4C (76)
+            Green: 0x52 (82)
+            Blue : 0xAC (172)
+        PLTE Entries[15]: 
+            Red  : 0x64 (100)
+            Green: 0x66 (102)
+            Blue : 0xE4 (228)
+        PLTE Entries[16]: 
+            Red  : 0xFC (252)
+            Green: 0x66 (102)
+            Blue : 0x9C (156)
+        PLTE Entries[17]: 
+            Red  : 0xCC (204)
+            Green: 0x32 (50)
+            Blue : 0x34 (52)
+        PLTE Entries[18]: 
+            Red  : 0x5C (92)
+            Green: 0x62 (98)
+            Blue : 0x64 (100)
+        PLTE Entries[19]: 
+            Red  : 0x04
+            Green: 0x02
+            Blue : 0xFC (252)
+        PLTE Entries[20]: 
+            Red  : 0x34 (52)
+            Green: 0x32 (50)
+            Blue : 0xEC (236)
+        PLTE Entries[21]: 
+            Red  : 0xFC (252)
+            Green: 0xCE (206)
+            Blue : 0xCC (204)
+        PLTE Entries[22]: 
+            Red  : 0xFC (252)
+            Green: 0x9A (154)
+            Blue : 0x9C (156)
+        PLTE Entries[23]: 
+            Red  : 0x0C (12)
+            Green: 0x0A (10)
+            Blue : 0x0C (12)
+        PLTE Entries[24]: 
+            Red  : 0x8C (140)
+            Green: 0x72 (114)
+            Blue : 0x2C (44)
+        PLTE Entries[25]: 
+            Red  : 0x4C (76)
+            Green: 0x32 (50)
+            Blue : 0x14 (20)
+        PLTE Entries[26]: 
+            Red  : 0x24 (36)
+            Green: 0x0E (14)
+            Blue : 0x0C (12)
+        PLTE Entries[27]: 
+            Red  : 0x74 (116)
+            Green: 0x42 (66)
+            Blue : 0x14 (20)
+        PLTE Entries[28]: 
+            Red  : 0x1C (28)
+            Green: 0x22 (34)
+            Blue : 0x24 (36)
+        PLTE Entries[29]: 
+            Red  : 0x24 (36)
+            Green: 0x26 (38)
+            Blue : 0x2A (42)
+        PLTE Entries[30]: 
+            Red  : 0x4C (76)
+            Green: 0x52 (82)
+            Blue : 0x44 (68)
+        PLTE Entries[31]: 
+            Red  : 0x7C (124)
+            Green: 0x82 (130)
+            Blue : 0x7C (124)
+        PLTE Entries[32]: 
+            Red  : 0xB4 (180)
+            Green: 0x26 (38)
+            Blue : 0x24 (36)
+        PLTE Entries[33]: 
+            Red  : 0xFC (252)
+            Green: 0x32 (50)
+            Blue : 0x64 (100)
+        PLTE Entries[34]: 
+            Red  : 0xD4 (212)
+            Green: 0xA2 (162)
+            Blue : 0x44 (68)
+        PLTE Entries[35]: 
+            Red  : 0xC4 (196)
+            Green: 0x86 (134)
+            Blue : 0x2C (44)
+        PLTE Entries[36]: 
+            Red  : 0x34 (52)
+            Green: 0x2E (46)
+            Blue : 0x0C (12)
+        PLTE Entries[37]: 
+            Red  : 0x4C (76)
+            Green: 0x52 (82)
+            Blue : 0x0C (12)
+        PLTE Entries[38]: 
+            Red  : 0x04
+            Green: 0x1A (26)
+            Blue : 0x04
+        PLTE Entries[39]: 
+            Red  : 0x14 (20)
+            Green: 0xB2 (178)
+            Blue : 0x14 (20)
+        PLTE Entries[40]: 
+            Red  : 0x0C (12)
+            Green: 0x26 (38)
+            Blue : 0x04
+        PLTE Entries[41]: 
+            Red  : 0x3C (60)
+            Green: 0x3E (62)
+            Blue : 0x04
+        PLTE Entries[42]: 
+            Red  : 0x24 (36)
+            Green: 0x26 (38)
+            Blue : 0x08
+        PLTE Entries[43]: 
+            Red  : 0xBC (188)
+            Green: 0x5A (90)
+            Blue : 0x14 (20)
+        PLTE Entries[44]: 
+            Red  : 0xEC (236)
+            Green: 0x8E (142)
+            Blue : 0x24 (36)
+        PLTE Entries[45]: 
+            Red  : 0x4C (76)
+            Green: 0x22 (34)
+            Blue : 0x04
+        PLTE Entries[46]: 
+            Red  : 0x5C (92)
+            Green: 0x5E (94)
+            Blue : 0x0C (12)
+        PLTE Entries[47]: 
+            Red  : 0x0C (12)
+            Green: 0x0E (14)
+            Blue : 0x0E (14)
+        PLTE Entries[48]: 
+            Red  : 0x0C (12)
+            Green: 0x7A (122)
+            Blue : 0x0C (12)
+        PLTE Entries[49]: 
+            Red  : 0x0C (12)
+            Green: 0x7E (126)
+            Blue : 0x0C (12)
+        PLTE Entries[50]: 
+            Red  : 0x5C (92)
+            Green: 0x5A (90)
+            Blue : 0x0C (12)
+        PLTE Entries[51]: 
+            Red  : 0x8C (140)
+            Green: 0x96 (150)
+            Blue : 0xA4 (164)
+        PLTE Entries[52]: 
+            Red  : 0x64 (100)
+            Green: 0x66 (102)
+            Blue : 0x64 (100)
+        PLTE Entries[53]: 
+            Red  : 0x94 (148)
+            Green: 0x9A (154)
+            Blue : 0x94 (148)
+        PLTE Entries[54]: 
+            Red  : 0x2C (44)
+            Green: 0x2A (42)
+            Blue : 0x2F (47)
+        PLTE Entries[55]: 
+            Red  : 0x24 (36)
+            Green: 0x22 (34)
+            Blue : 0x0C (12)
+        PLTE Entries[56]: 
+            Red  : 0x54 (84)
+            Green: 0x3A (58)
+            Blue : 0x1C (28)
+        PLTE Entries[57]: 
+            Red  : 0x5C (92)
+            Green: 0x3E (62)
+            Blue : 0x24 (36)
+        PLTE Entries[58]: 
+            Red  : 0x5C (92)
+            Green: 0x66 (102)
+            Blue : 0x0C (12)
+        PLTE Entries[59]: 
+            Red  : 0x14 (20)
+            Green: 0x2A (42)
+            Blue : 0x0C (12)
+        PLTE Entries[60]: 
+            Red  : 0x0C (12)
+            Green: 0x6E (110)
+            Blue : 0x14 (20)
+        PLTE Entries[61]: 
+            Red  : 0x0C (12)
+            Green: 0x2E (46)
+            Blue : 0x04
+        PLTE Entries[62]: 
+            Red  : 0x64 (100)
+            Green: 0x2E (46)
+            Blue : 0x14 (20)
+        PLTE Entries[63]: 
+            Red  : 0x2C (44)
+            Green: 0x16 (22)
+            Blue : 0x04
+        PLTE Entries[64]: 
+            Red  : 0x64 (100)
+            Green: 0x66 (102)
+            Blue : 0x0C (12)
+        PLTE Entries[65]: 
+            Red  : 0x1C (28)
+            Green: 0x22 (34)
+            Blue : 0x0C (12)
+        PLTE Entries[66]: 
+            Red  : 0x0C (12)
+            Green: 0x5A (90)
+            Blue : 0x0C (12)
+        PLTE Entries[67]: 
+            Red  : 0x0C (12)
+            Green: 0x62 (98)
+            Blue : 0x0C (12)
+        PLTE Entries[68]: 
+            Red  : 0x1C (28)
+            Green: 0x26 (38)
+            Blue : 0x04
+        PLTE Entries[69]: 
+            Red  : 0x34 (52)
+            Green: 0x32 (50)
+            Blue : 0x1C (28)
+        PLTE Entries[70]: 
+            Red  : 0x2C (44)
+            Green: 0x2E (46)
+            Blue : 0x24 (36)
+        PLTE Entries[71]: 
+            Red  : 0x44 (68)
+            Green: 0x46 (70)
+            Blue : 0x4C (76)
+        PLTE Entries[72]: 
+            Red  : 0x1C (28)
+            Green: 0x16 (22)
+            Blue : 0x14 (20)
+        PLTE Entries[73]: 
+            Red  : 0x1C (28)
+            Green: 0x1E (30)
+            Blue : 0x04
+        PLTE Entries[74]: 
+            Red  : 0x24 (36)
+            Green: 0x2A (42)
+            Blue : 0x2D (45)
+        PLTE Entries[75]: 
+            Red  : 0x34 (52)
+            Green: 0x3A (58)
+            Blue : 0x3C (60)
+        PLTE Entries[76]: 
+            Red  : 0x14 (20)
+            Green: 0x16 (22)
+            Blue : 0x04
+        PLTE Entries[77]: 
+            Red  : 0x4C (76)
+            Green: 0x4A (74)
+            Blue : 0x4C (76)
+        PLTE Entries[78]: 
+            Red  : 0x14 (20)
+            Green: 0x16 (22)
+            Blue : 0x19 (25)
+        PLTE Entries[79]: 
+            Red  : 0x34 (52)
+            Green: 0x3E (62)
+            Blue : 0x44 (68)
+        PLTE Entries[80]: 
+            Red  : 0x04
+            Green: 0x06
+            Blue : 0x04
+        PLTE Entries[81]: 
+            Red  : 0x64 (100)
+            Green: 0x62 (98)
+            Blue : 0x6C (108)
+        PLTE Entries[82]: 
+            Red  : 0x84 (132)
+            Green: 0x92 (146)
+            Blue : 0xA4 (164)
+        PLTE Entries[83]: 
+            Red  : 0x54 (84)
+            Green: 0x5A (90)
+            Blue : 0x63 (99)
+        PLTE Entries[84]: 
+            Red  : 0x4C (76)
+            Green: 0x5A (90)
+            Blue : 0x5C (92)
+        PLTE Entries[85]: 
+            Red  : 0x1C (28)
+            Green: 0x1E (30)
+            Blue : 0x24 (36)
+        PLTE Entries[86]: 
+            Red  : 0x1C (28)
+            Green: 0x1A (26)
+            Blue : 0x1C (28)
+        PLTE Entries[87]: 
+            Red  : 0x5C (92)
+            Green: 0x5E (94)
+            Blue : 0x68 (104)
+        PLTE Entries[88]: 
+            Red  : 0x4C (76)
+            Green: 0x56 (86)
+            Blue : 0x5C (92)
+        PLTE Entries[89]: 
+            Red  : 0x0C (12)
+            Green: 0x02
+            Blue : 0x04
+        PLTE Entries[90]: 
+            Red  : 0x2C (44)
+            Green: 0x2E (46)
+            Blue : 0x34 (52)
+        PLTE Entries[91]: 
+            Red  : 0x64 (100)
+            Green: 0x76 (118)
+            Blue : 0x7C (124)
+        PLTE Entries[92]: 
+            Red  : 0x5C (92)
+            Green: 0x66 (102)
+            Blue : 0x6F (111)
+        PLTE Entries[93]: 
+            Red  : 0x84 (132)
+            Green: 0x66 (102)
+            Blue : 0x6C (108)
+        PLTE Entries[94]: 
+            Red  : 0xB4 (180)
+            Green: 0x6A (106)
+            Blue : 0x6C (108)
+        PLTE Entries[95]: 
+            Red  : 0x6C (108)
+            Green: 0x72 (114)
+            Blue : 0x24 (36)
+        PLTE Entries[96]: 
+            Red  : 0x2C (44)
+            Green: 0x2E (46)
+            Blue : 0x04
+        PLTE Entries[97]: 
+            Red  : 0xBC (188)
+            Green: 0x72 (114)
+            Blue : 0x7C (124)
+        PLTE Entries[98]: 
+            Red  : 0x7C (124)
+            Green: 0x82 (130)
+            Blue : 0x3C (60)
+        PLTE Entries[99]: 
+            Red  : 0x3C (60)
+            Green: 0x0A (10)
+            Blue : 0x0C (12)
+        PLTE Entries[100]: 
+            Red  : 0xDC (220)
+            Green: 0x4E (78)
+            Blue : 0x54 (84)
+        PLTE Entries[101]: 
+            Red  : 0x8C (140)
+            Green: 0x9E (158)
+            Blue : 0x74 (116)
+        PLTE Entries[102]: 
+            Red  : 0x4C (76)
+            Green: 0x56 (86)
+            Blue : 0x3C (60)
+        PLTE Entries[103]: 
+            Red  : 0x44 (68)
+            Green: 0x0A (10)
+            Blue : 0x04
+        PLTE Entries[104]: 
+            Red  : 0xEC (236)
+            Green: 0x26 (38)
+            Blue : 0x24 (36)
+        PLTE Entries[105]: 
+            Red  : 0x44 (68)
+            Green: 0x4A (74)
+            Blue : 0x4E (78)
+        PLTE Entries[106]: 
+            Red  : 0x54 (84)
+            Green: 0x62 (98)
+            Blue : 0x7C (124)
+        PLTE Entries[107]: 
+            Red  : 0x64 (100)
+            Green: 0x6E (110)
+            Blue : 0x74 (116)
+        PLTE Entries[108]: 
+            Red  : 0x0C (12)
+            Green: 0x12 (18)
+            Blue : 0x14 (20)
+        PLTE Entries[109]: 
+            Red  : 0x4C (76)
+            Green: 0x52 (82)
+            Blue : 0x54 (84)
+        PLTE Entries[110]: 
+            Red  : 0x34 (52)
+            Green: 0x2A (42)
+            Blue : 0x2C (44)
+        PLTE Entries[111]: 
+            Red  : 0x64 (100)
+            Green: 0x36 (54)
+            Blue : 0x3C (60)
+        PLTE Entries[112]: 
+            Red  : 0x44 (68)
+            Green: 0x4E (78)
+            Blue : 0x54 (84)
+        PLTE Entries[113]: 
+            Red  : 0x7C (124)
+            Green: 0x86 (134)
+            Blue : 0x64 (100)
+        PLTE Entries[114]: 
+            Red  : 0x34 (52)
+            Green: 0x26 (38)
+            Blue : 0x2C (44)
+        PLTE Entries[115]: 
+            Red  : 0x44 (68)
+            Green: 0x4A (74)
+            Blue : 0x34 (52)
+        PLTE Entries[116]: 
+            Red  : 0x24 (36)
+            Green: 0x0A (10)
+            Blue : 0x04
+        PLTE Entries[117]: 
+            Red  : 0x5C (92)
+            Green: 0x22 (34)
+            Blue : 0x24 (36)
+        PLTE Entries[118]: 
+            Red  : 0x64 (100)
+            Green: 0x6A (106)
+            Blue : 0x34 (52)
+        PLTE Entries[119]: 
+            Red  : 0x2C (44)
+            Green: 0x2E (46)
+            Blue : 0x0C (12)
+        PLTE Entries[120]: 
+            Red  : 0x94 (148)
+            Green: 0x7A (122)
+            Blue : 0x84 (132)
+        PLTE Entries[121]: 
+            Red  : 0x54 (84)
+            Green: 0x66 (102)
+            Blue : 0x5C (92)
+        PLTE Entries[122]: 
+            Red  : 0x6C (108)
+            Green: 0x7A (122)
+            Blue : 0x64 (100)
+        PLTE Entries[123]: 
+            Red  : 0x3C (60)
+            Green: 0x42 (66)
+            Blue : 0x2C (44)
+        PLTE Entries[124]: 
+            Red  : 0x14 (20)
+            Green: 0x1A (26)
+            Blue : 0x1C (28)
+        PLTE Entries[125]: 
+            Red  : 0x2C (44)
+            Green: 0x32 (50)
+            Blue : 0x34 (52)
+        PLTE Entries[126]: 
+            Red  : 0x64 (100)
+            Green: 0x6A (106)
+            Blue : 0x74 (116)
+        PLTE Entries[127]: 
+            Red  : 0x3C (60)
+            Green: 0x46 (70)
+            Blue : 0x4C (76)
+        PLTE Entries[128]: 
+            Red  : 0x94 (148)
+            Green: 0x9E (158)
+            Blue : 0xAC (172)
+        PLTE Entries[129]: 
+            Red  : 0x04
+            Green: 0x0A (10)
+            Blue : 0x14 (20)
+        PLTE Entries[130]: 
+            Red  : 0x7C (124)
+            Green: 0x7E (126)
+            Blue : 0x8C (140)
+        PLTE Entries[131]: 
+            Red  : 0x34 (52)
+            Green: 0x32 (50)
+            Blue : 0x34 (52)
+        PLTE Entries[132]: 
+            Red  : 0x74 (116)
+            Green: 0x82 (130)
+            Blue : 0x8C (140)
+        PLTE Entries[133]: 
+            Red  : 0x6C (108)
+            Green: 0x6E (110)
+            Blue : 0x7C (124)
+        PLTE Entries[134]: 
+            Red  : 0x1C (28)
+            Green: 0x2A (42)
+            Blue : 0x24 (36)
+        PLTE Entries[135]: 
+            Red  : 0x5C (92)
+            Green: 0x62 (98)
+            Blue : 0x74 (116)
+        PLTE Entries[136]: 
+            Red  : 0x34 (52)
+            Green: 0x3A (58)
+            Blue : 0x44 (68)
+        PLTE Entries[137]: 
+            Red  : 0x44 (68)
+            Green: 0x7A (122)
+            Blue : 0x54 (84)
+        PLTE Entries[138]: 
+            Red  : 0x3C (60)
+            Green: 0x66 (102)
+            Blue : 0x4C (76)
+        PLTE Entries[139]: 
+            Red  : 0x24 (36)
+            Green: 0x2E (46)
+            Blue : 0x2C (44)
+        PLTE Entries[140]: 
+            Red  : 0x2C (44)
+            Green: 0x26 (38)
+            Blue : 0x2C (44)
+        PLTE Entries[141]: 
+            Red  : 0x44 (68)
+            Green: 0x46 (70)
+            Blue : 0x9C (156)
+        PLTE Entries[142]: 
+            Red  : 0x84 (132)
+            Green: 0x8E (142)
+            Blue : 0xFC (252)
+        PLTE Entries[143]: 
+            Red  : 0x34 (52)
+            Green: 0x36 (54)
+            Blue : 0x0C (12)
+        PLTE Entries[144]: 
+            Red  : 0x4C (76)
+            Green: 0x9E (158)
+            Blue : 0x4C (76)
+        PLTE Entries[145]: 
+            Red  : 0x34 (52)
+            Green: 0x36 (54)
+            Blue : 0x2C (44)
+        PLTE Entries[146]: 
+            Red  : 0x54 (84)
+            Green: 0x5A (90)
+            Blue : 0x8C (140)
+        PLTE Entries[147]: 
+            Red  : 0x74 (116)
+            Green: 0x7E (126)
+            Blue : 0xDC (220)
+        PLTE Entries[148]: 
+            Red  : 0x1C (28)
+            Green: 0x32 (50)
+            Blue : 0x1C (28)
+        PLTE Entries[149]: 
+            Red  : 0x54 (84)
+            Green: 0xB2 (178)
+            Blue : 0x64 (100)
+        PLTE Entries[150]: 
+            Red  : 0x94 (148)
+            Green: 0x9A (154)
+            Blue : 0xD4 (212)
+        PLTE Entries[151]: 
+            Red  : 0x2C (44)
+            Green: 0x2E (46)
+            Blue : 0x8C (140)
+        PLTE Entries[152]: 
+            Red  : 0x2C (44)
+            Green: 0x2E (46)
+            Blue : 0x6C (108)
+        PLTE Entries[153]: 
+            Red  : 0x84 (132)
+            Green: 0x8A (138)
+            Blue : 0x18 (24)
+        PLTE Entries[154]: 
+            Red  : 0x44 (68)
+            Green: 0x76 (118)
+            Blue : 0x4C (76)
+        PLTE Entries[155]: 
+            Red  : 0x7C (124)
+            Green: 0x82 (130)
+            Blue : 0x14 (20)
+        PLTE Entries[156]: 
+            Red  : 0x44 (68)
+            Green: 0x42 (66)
+            Blue : 0x0C (12)
+        PLTE Entries[157]: 
+            Red  : 0x3C (60)
+            Green: 0x46 (70)
+            Blue : 0x5C (92)
+        PLTE Entries[158]: 
+            Red  : 0x4C (76)
+            Green: 0x52 (82)
+            Blue : 0x7C (124)
+        PLTE Entries[159]: 
+            Red  : 0x94 (148)
+            Green: 0x92 (146)
+            Blue : 0x14 (20)
+        PLTE Entries[160]: 
+            Red  : 0x14 (20)
+            Green: 0x16 (22)
+            Blue : 0x3C (60)
+        PLTE Entries[161]: 
+            Red  : 0x1C (28)
+            Green: 0x46 (70)
+            Blue : 0x24 (36)
+        PLTE Entries[162]: 
+            Red  : 0x4C (76)
+            Green: 0x5E (94)
+            Blue : 0x3C (60)
+        PLTE Entries[163]: 
+            Red  : 0x2C (44)
+            Green: 0x2A (42)
+            Blue : 0x04
+        PLTE Entries[164]: 
+            Red  : 0x64 (100)
+            Green: 0x6E (110)
+            Blue : 0x44 (68)
+        PLTE Entries[165]: 
+            Red  : 0x24 (36)
+            Green: 0x22 (34)
+            Blue : 0x26 (38)
+        PLTE Entries[166]: 
+            Red  : 0x54 (84)
+            Green: 0x56 (86)
+            Blue : 0x5F (95)
+        PLTE Entries[167]: 
+            Red  : 0x34 (52)
+            Green: 0x36 (54)
+            Blue : 0x3C (60)
+        PLTE Entries[168]: 
+            Red  : 0x14 (20)
+            Green: 0x1A (26)
+            Blue : 0x04
+        PLTE Entries[169]: 
+            Red  : 0x14 (20)
+            Green: 0x12 (18)
+            Blue : 0x14 (20)
+        PLTE Entries[170]: 
+            Red  : 0x4C (76)
+            Green: 0x52 (82)
+            Blue : 0x64 (100)
+        PLTE Entries[171]: 
+            Red  : 0x74 (116)
+            Green: 0x7A (122)
+            Blue : 0x8C (140)
+        PLTE Entries[172]: 
+            Red  : 0xFC (252)
+            Green: 0x66 (102)
+            Blue : 0x64 (100)
+        PLTE Entries[173]: 
+            Red  : 0x14 (20)
+            Green: 0x12 (18)
+            Blue : 0x04
+        PLTE Entries[174]: 
+            Red  : 0x1C (28)
+            Green: 0x1E (30)
+            Blue : 0x1C (28)
+        PLTE Entries[175]: 
+            Red  : 0x54 (84)
+            Green: 0x5E (94)
+            Blue : 0x64 (100)
+        PLTE Entries[176]: 
+            Red  : 0x3C (60)
+            Green: 0x3A (58)
+            Blue : 0x40 (64)
+        PLTE Entries[177]: 
+            Red  : 0x1C (28)
+            Green: 0x1A (26)
+            Blue : 0x2C (44)
+        PLTE Entries[178]: 
+            Red  : 0x5C (92)
+            Green: 0x62 (98)
+            Blue : 0x6C (108)
+        PLTE Entries[179]: 
+            Red  : 0x64 (100)
+            Green: 0x16 (22)
+            Blue : 0x14 (20)
+        PLTE Entries[180]: 
+            Red  : 0x3C (60)
+            Green: 0x12 (18)
+            Blue : 0x10 (16)
+        PLTE Entries[181]: 
+            Red  : 0x7C (124)
+            Green: 0x1A (26)
+            Blue : 0x14 (20)
+        PLTE Entries[182]: 
+            Red  : 0x14 (20)
+            Green: 0x02
+            Blue : 0x04
+        PLTE Entries[183]: 
+            Red  : 0x34 (52)
+            Green: 0x0A (10)
+            Blue : 0x04
+        PLTE Entries[184]: 
+            Red  : 0x6C (108)
+            Green: 0x16 (22)
+            Blue : 0x14 (20)
+        PLTE Entries[185]: 
+            Red  : 0x0C (12)
+            Green: 0x1E (30)
+            Blue : 0x0C (12)
+        PLTE Entries[186]: 
+            Red  : 0x24 (36)
+            Green: 0x1E (30)
+            Blue : 0x04
+        PLTE Entries[187]: 
+            Red  : 0x9C (156)
+            Green: 0x16 (22)
+            Blue : 0x14 (20)
+        PLTE Entries[188]: 
+            Red  : 0x7C (124)
+            Green: 0x76 (118)
+            Blue : 0x0C (12)
+        PLTE Entries[189]: 
+            Red  : 0x1C (28)
+            Green: 0x06
+            Blue : 0x04
+        PLTE Entries[190]: 
+            Red  : 0x84 (132)
+            Green: 0x16 (22)
+            Blue : 0x14 (20)
+        PLTE Entries[191]: 
+            Red  : 0x94 (148)
+            Green: 0x96 (150)
+            Blue : 0x14 (20)
+        PLTE Entries[192]: 
+            Red  : 0x3C (60)
+            Green: 0x3A (58)
+            Blue : 0x0C (12)
+        PLTE Entries[193]: 
+            Red  : 0xC4 (196)
+            Green: 0x1E (30)
+            Blue : 0x24 (36)
+        PLTE Entries[194]: 
+            Red  : 0x4C (76)
+            Green: 0x16 (22)
+            Blue : 0x14 (20)
+        PLTE Entries[195]: 
+            Red  : 0xBC (188)
+            Green: 0x22 (34)
+            Blue : 0x24 (36)
+        PLTE Entries[196]: 
+            Red  : 0x2C (44)
+            Green: 0x06
+            Blue : 0x04
+        PLTE Entries[197]: 
+            Red  : 0x7C (124)
+            Green: 0x7A (122)
+            Blue : 0x0C (12)
+        PLTE Entries[198]: 
+            Red  : 0x2C (44)
+            Green: 0x0A (10)
+            Blue : 0x0C (12)
+        PLTE Entries[199]: 
+            Red  : 0x84 (132)
+            Green: 0x86 (134)
+            Blue : 0x90 (144)
+        PLTE Entries[200]: 
+            Red  : 0x14 (20)
+            Green: 0x0E (14)
+            Blue : 0x04
+        PLTE Entries[201]: 
+            Red  : 0x6C (108)
+            Green: 0x72 (114)
+            Blue : 0x80 (128)
+        PLTE Entries[202]: 
+            Red  : 0x6C (108)
+            Green: 0x6A (106)
+            Blue : 0x7C (124)
+    CRC          : 0xB294E444 (2996102212)
+Chunk[3]: 
+    Length       : 0x00000034 (52)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Comment"
+        Text String    : "Copyright 1997 Greg Roelofs (newt@pobox.com)"
+    CRC          : 0x4ADE8399 (1256096665)
+Chunk[4]: 
+    Length       : 0x000004DF (1247)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {1247 bytes}
+    CRC          : 0xA8E293C6 (2833421254)
+Chunk[5]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

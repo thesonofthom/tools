@@ -1,0 +1,93 @@
+-------------------------------
+PNG File Format: dog_shadow.png
+-------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000315 (789)
+    Height            : 0x0000031C (796)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xA9701F95 (2842697621)
+Chunk[0]: 
+    Length       : 0x00000007
+    Chunk type   : "tIME" [0x74,0x49,0x4D,0x45]
+    Data: 
+        Year  : 0x07DA (2010)
+        Month : 0x09 (September)
+        Day   : 0x1E (30)
+        Hour  : 0x11 (17)
+        Minute: 0x09
+        Second: 0x23 (35)
+    CRC          : 0xACE6D448 (2900808776)
+Chunk[1]: 
+    Length       : 0x0000002C (44)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Description"
+        Text String    : "Created with Tecplot 11.3.29.563"
+    CRC          : 0xE67FC340 (3867132736)
+Chunk[2]: 
+    Length       : 0x0000000F (15)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "Title"
+        Text String   : "Frame 001"
+    CRC          : 0x6334F783 (1664415619)
+Chunk[3]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xD4C4329E (3569627806)
+Chunk[4]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x429AF473 (1117451379)
+Chunk[5]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x9CBBE771 (2629560177)
+Chunk[6]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xDA515957 (3662764375)
+Chunk[7]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xF26A0D3E (4067036478)
+Chunk[8]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x16D3E539 (382985529)
+Chunk[9]: 
+    Length       : 0x00000840 (2112)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {2112 bytes}
+    CRC          : 0x0C5786B7 (207062711)
+Chunk[10]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

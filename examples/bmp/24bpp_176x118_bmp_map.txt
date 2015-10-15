@@ -1,0 +1,13 @@
+---------------------------
+BMP File: 24bpp_176x118.bmp
+---------------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x0000F37C (62332)
+    Data Offset : 0x0000001A (26)
+DIB Header: 
+    Size          : 0x0000000C (12) (BITMAPCOREHEADER)
+    Width         : 0x00B0 (176)
+    Height        : 0x0076 (118)
+    Planes        : 0x0001
+    Bits-Per-Pixel: 0x0018 (24)

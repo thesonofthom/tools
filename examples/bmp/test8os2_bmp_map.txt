@@ -1,0 +1,13 @@
+----------------------
+BMP File: test8os2.bmp
+----------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x0000231A (8986)
+    Data Offset : 0x0000031A (794)
+DIB Header: 
+    Size          : 0x0000000C (12) (BITMAPCOREHEADER)
+    Width         : 0x007F (127)
+    Height        : 0x0040 (64)
+    Planes        : 0x0001
+    Bits-Per-Pixel: 0x0008

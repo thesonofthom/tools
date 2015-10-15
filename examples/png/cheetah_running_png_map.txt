@@ -1,0 +1,83 @@
+------------------------------------
+PNG File Format: cheetah_running.png
+------------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000193 (403)
+    Height            : 0x00000193 (403)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x627E6836 (1652451382)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000EC3 (3779)
+        Pixels Per Unit, Y Axis: 0x00000EC3 (3779)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0xC76FA864 (3345983588)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 01 93 00 00 01 93 00 
+    CRC          : 0x73F961BE (1945723326)
+Chunk[2]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xCB00A4BD (3405817021)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4D47B034 (1296543796)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBB700093 (3144679571)
+Chunk[5]: 
+    Length       : 0x000034FA (13562)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {13562 bytes}
+    CRC          : 0x0751EA95 (122808981)
+Chunk[6]: 
+    Length       : 0x0000001A (26)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "jpeg:colorspace"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {9 bytes}
+    CRC          : 0x89382335 (2302157621)
+Chunk[7]: 
+    Length       : 0x00000026 (38)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "jpeg:sampling-factor"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {16 bytes}
+    CRC          : 0x3D972F4F (1033318223)
+Chunk[8]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

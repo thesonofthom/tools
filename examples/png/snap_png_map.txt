@@ -1,0 +1,75 @@
+-------------------------
+PNG File Format: snap.png
+-------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000127 (295)
+    Height            : 0x00000190 (400)
+    Bit depth         : 0x08
+    Color Type        : 0x00 (Greyscale)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xC9FEF950 (3388930384)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000048 (72)
+        Pixels Per Unit, Y Axis: 0x00000048 (72)
+        Unit Specifier         : 0x00 (Unit_is_unknown)
+    CRC          : 0x46C96B3E (1187605310)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 01 27 00 00 01 90 00 
+    CRC          : 0xD98F631E (3650052894)
+Chunk[2]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x6ED3CB45 (1859373893)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x03065256 (50745942)
+Chunk[4]: 
+    Length       : 0x000072D5 (29397)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {29397 bytes}
+    CRC          : 0x46A41717 (1185158935)
+Chunk[5]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2011-01-10T19:18:40-05:00"
+    CRC          : 0x901B196B (2417695083)
+Chunk[6]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2011-01-10T19:18:40-05:00"
+    CRC          : 0xE146A1D7 (3779502551)
+Chunk[7]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

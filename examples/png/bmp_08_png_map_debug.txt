@@ -1,0 +1,60 @@
+--------------------------------------------------------
+PNG File Format: bmp_08.png (offset: 0, size 1217 bytes)
+--------------------------------------------------------
+PNG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x000000FF (255)
+    Height            : (offset: 12, size: 4 bytes): 0x000000FF (255)
+    Bit depth         : (offset: 16, size: 1 byte): 0x04
+    Color Type        : (offset: 17, size: 1 byte): 0x03 (Indexed_color)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x00
+    CRC               : (offset: 21, size: 4 bytes): 0xCC261DF9 (3425050105)
+Chunk[0]: (offset: 33, size: 27 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x0000000F (15)
+    Chunk type   : (offset: 4, size: 4 bytes): "PLTE" [0x50,0x4C,0x54,0x45]
+    Data: (offset: 8, size: 15 bytes): 
+        PLTE Entries[0]: (offset: 0, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x00
+            Green: (offset: 1, size: 1 byte): 0x00
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[1]: (offset: 3, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x00
+            Green: (offset: 1, size: 1 byte): 0x01
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[2]: (offset: 6, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x02
+            Green: (offset: 1, size: 1 byte): 0x01
+            Blue : (offset: 2, size: 1 byte): 0x00
+        PLTE Entries[3]: (offset: 9, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x00
+            Green: (offset: 1, size: 1 byte): 0x02
+            Blue : (offset: 2, size: 1 byte): 0x01
+        PLTE Entries[4]: (offset: 12, size: 3 bytes): 
+            Red  : (offset: 0, size: 1 byte): 0x01
+            Green: (offset: 1, size: 1 byte): 0x00
+            Blue : (offset: 2, size: 1 byte): 0x02
+    Reserved     : (offset: 23, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 23, size: 4 bytes): 0x416C2F4B (1097609035)
+Chunk[1]: (offset: 60, size: 1145 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x0000046D (1133)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 1133 bytes): 
+        Chunk Data: (offset: 0, size: 1133 bytes): {1133 bytes}
+    Reserved     : (offset: 1141, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 1141, size: 4 bytes): 0x744E5836 (1951291446)
+Chunk[2]: (offset: 1205, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

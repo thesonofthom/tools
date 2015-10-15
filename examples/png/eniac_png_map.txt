@@ -1,0 +1,145 @@
+--------------------------
+PNG File Format: eniac.png
+--------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x0000034E (846)
+    Height            : 0x000002D1 (721)
+    Bit depth         : 0x08
+    Color Type        : 0x00 (Greyscale)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x498CAC7F (1233955967)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00002E23 (11811)
+        Pixels Per Unit, Y Axis: 0x00002E23 (11811)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x78A53F76 (2024095606)
+Chunk[1]: 
+    Length       : 0x00001B5E (7006)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type iptc"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {6983 bytes}
+    CRC          : 0xC72F4176 (3341762934)
+Chunk[2]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x934E165B (2471368283)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x4E537DA5 (1314094501)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xDE9E8E21 (3734933025)
+Chunk[5]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x1AD608B3 (450234547)
+Chunk[6]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0C232DC0 (203632064)
+Chunk[7]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x988CF5AD (2559374765)
+Chunk[8]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5A27427A (1512522362)
+Chunk[9]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x29A38D67 (698584423)
+Chunk[10]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD5F5CF1A (3589656346)
+Chunk[11]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x263BB8C5 (641448133)
+Chunk[12]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x0F54250D (257172749)
+Chunk[13]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8D256A31 (2368039473)
+Chunk[14]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x058F5F9D (93282205)
+Chunk[15]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x99AE0191 (2578317713)
+Chunk[16]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xF563EB8E (4116966286)
+Chunk[17]: 
+    Length       : 0x00007ED4 (32468)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32468 bytes}
+    CRC          : 0x737E45F3 (1937655283)
+Chunk[18]: 
+    Length       : 0x0000002C (44)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Comment"
+        Text String    : "File written by Adobe Photoshop 4.0" [0x46,0x69,0x6C,0x65,0x20,0x77,0x72,0x69,0x74,0x74,0x65,0x6E,0x20,0x62,0x79,0x20,0x41,0x64,0x6F,0x62,0x65,0x20,0x50,0x68,0x6F,0x74,0x6F,0x73,0x68,0x6F,0x70,0xA8,0x20,0x34,0x2E,0x30]
+    CRC          : 0x32A64309 (849756937)
+Chunk[19]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

@@ -1,0 +1,96 @@
+-------------------------------------
+PNG File Format: pitt_logo_sports.png
+-------------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000190 (400)
+    Height            : 0x00000190 (400)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x0FDDA19B (266183067)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000064 (100)
+        Pixels Per Unit, Y Axis: 0x00000064 (100)
+        Unit Specifier         : 0x00 (Unit_is_unknown)
+    CRC          : 0x0F96C5DD (261539293)
+Chunk[1]: 
+    Length       : 0x00000046 (70)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Raw profile type app12"
+        Text String    : "app12      154475636b79000100040000003c0000" [0x0A,0x61,0x70,0x70,0x31,0x32,0x0A,0x20,0x20,0x20,0x20,0x20,0x20,0x31,0x35,0x0A,0x34,0x34,0x37,0x35,0x36,0x33,0x36,0x62,0x37,0x39,0x30,0x30,0x30,0x31,0x30,0x30,0x30,0x34,0x30,0x30,0x30,0x30,0x30,0x30,0x33,0x63,0x30,0x30,0x30,0x30,0x0A]
+    CRC          : 0xCCC8759B (3435689371)
+Chunk[2]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 01 90 00 00 01 90 00 
+    CRC          : 0xDE4040D3 (3728752851)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD3289FF4 (3542654964)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x69DAD6FA (1775949562)
+Chunk[5]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xC0C4D4AD (3234124973)
+Chunk[6]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x3EDC6023 (1054629923)
+Chunk[7]: 
+    Length       : 0x0000162F (5679)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {5679 bytes}
+    CRC          : 0xA4B06876 (2763024502)
+Chunk[8]: 
+    Length       : 0x0000001A (26)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "jpeg:colorspace"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {9 bytes}
+    CRC          : 0x89382335 (2302157621)
+Chunk[9]: 
+    Length       : 0x00000024 (36)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "jpeg:sampling-factor"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {14 bytes}
+    CRC          : 0x9DFE1E99 (2650676889)
+Chunk[10]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

@@ -1,0 +1,25 @@
+-------------------------------------------------
+BMP File: test32bf.bmp (offset: 0, size 66 bytes)
+-------------------------------------------------
+Bitmap File Header: (offset: 0, size: 14 bytes): 
+    Signature   : (offset: 0, size: 2 bytes): "BM" [0x42,0x4D]
+    File Size   : (offset: 2, size: 4 bytes): 0x00007F42 (32578)
+    Reserved    : (offset: 6, size: 4 bytes): {4 bytes}
+    Data Offset : (offset: 10, size: 4 bytes): 0x00000042 (66)
+DIB Header: (offset: 14, size: 40 bytes): 
+    Size                             : (offset: 0, size: 4 bytes): 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : (offset: 4, size: 4 bytes): 0x0000007F (127)
+    Height                           : (offset: 8, size: 4 bytes): 0x00000040 (64)
+    Planes                           : (offset: 12, size: 2 bytes): 0x0001
+    Bits-Per-Pixel                   : (offset: 14, size: 2 bytes): 0x0020 (32)
+    Compression                      : (offset: 16, size: 4 bytes): 0x00000003 (BI_BITFIELD)
+    Size of Image                    : (offset: 20, size: 4 bytes): 0x00007F00 (32512)
+    Horizontal Pixels-Per-Meter      : (offset: 24, size: 4 bytes): 0x00000000
+    Vertical Pixels-Per-Meter        : (offset: 28, size: 4 bytes): 0x00000000
+    Color Indices Used               : (offset: 32, size: 4 bytes): 0x00000000
+    Number of Important Color Indices: (offset: 36, size: 4 bytes): 0x00000000
+Bitfield Masks: (offset: 54, size: 12 bytes): 
+    Red Mask  : (offset: 0, size: 4 bytes): 0x00FF0000 (16711680)
+    Green Mask: (offset: 4, size: 4 bytes): 0x0000FF00 (65280)
+    Blue Mask : (offset: 8, size: 4 bytes): 0x000000FF (255)
+Color Palette     : (offset: 66, size: 0 bytes [length: 0]): []

@@ -1,0 +1,140 @@
+-------------------------------------
+PNG File Format: archimedes_after.png
+-------------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x0000015E (350)
+    Height            : 0x0000015E (350)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x4249E04D (1112137805)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000B12 (2834)
+        Pixels Per Unit, Y Axis: 0x00000B12 (2834)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0xD2DD7EFC (3537731324)
+Chunk[1]: 
+    Length       : 0x0000221C (8732)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type 8bim"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {8709 bytes}
+    CRC          : 0x5D9675F5 (1570141685)
+Chunk[2]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 01 5E 00 00 01 5E 00 
+    CRC          : 0xA0DBC5D7 (2698757591)
+Chunk[3]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x32D33579 (852702585)
+Chunk[4]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x232FA9FC (590326268)
+Chunk[5]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x5E1B2551 (1578837329)
+Chunk[6]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x228F2659 (579806809)
+Chunk[7]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x17CF27CA (399452106)
+Chunk[8]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x843E8CBC (2218691772)
+Chunk[9]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBF9EA9A6 (3214846374)
+Chunk[10]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0x8463437D (2221097853)
+Chunk[11]: 
+    Length       : 0x00004690 (18064)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {18064 bytes}
+    CRC          : 0xCCC683BE (3435561918)
+Chunk[12]: 
+    Length       : 0x0000002C (44)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "comment"
+        Text String    : "File written by Adobe Photoshop 4.0" [0x46,0x69,0x6C,0x65,0x20,0x77,0x72,0x69,0x74,0x74,0x65,0x6E,0x20,0x62,0x79,0x20,0x41,0x64,0x6F,0x62,0x65,0x20,0x50,0x68,0x6F,0x74,0x6F,0x73,0x68,0x6F,0x70,0xA8,0x20,0x34,0x2E,0x30]
+    CRC          : 0x77F65C8E (2012634254)
+Chunk[13]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2011-01-09T08:40:01-05:00"
+    CRC          : 0xCAE20DFD (3403812349)
+Chunk[14]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2011-01-09T08:40:01-05:00"
+    CRC          : 0xBBBFB541 (3149903169)
+Chunk[15]: 
+    Length       : 0x00000011 (17)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "jpeg:colorspace"
+        Text String   : "2"
+    CRC          : 0x2C75559F (745887135)
+Chunk[16]: 
+    Length       : 0x00000020 (32)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "jpeg:sampling-factor"
+        Text String    : "1x1,1x1,1x1"
+    CRC          : 0xE995FC70 (3918920816)
+Chunk[17]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

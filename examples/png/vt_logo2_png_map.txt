@@ -1,0 +1,113 @@
+-----------------------------
+PNG File Format: vt_logo2.png
+-----------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000258 (600)
+    Height            : 0x00000258 (600)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x31040F8B (822349707)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000B12 (2834)
+        Pixels Per Unit, Y Axis: 0x00000B12 (2834)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0xD2DD7EFC (3537731324)
+Chunk[1]: 
+    Length       : 0x00001723 (5923)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type 8bim"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {5900 bytes}
+    CRC          : 0xD951C614 (3646014996)
+Chunk[2]: 
+    Length       : 0x0000122B (4651)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type exif"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {4628 bytes}
+    CRC          : 0xFA551761 (4199880545)
+Chunk[3]: 
+    Length       : 0x0000036A (874)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type xmp"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {852 bytes}
+    CRC          : 0x7851BE43 (2018623043)
+Chunk[4]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 02 58 00 00 02 58 00 
+    CRC          : 0x13762588 (326509960)
+Chunk[5]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xBD465792 (3175503762)
+Chunk[6]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB01EBF43 (2954805059)
+Chunk[7]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xB1D140EA (2983280874)
+Chunk[8]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xE0CDA95E (3771574622)
+Chunk[9]: 
+    Length       : 0x000034EC (13548)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {13548 bytes}
+    CRC          : 0xD54BF0F3 (3578523891)
+Chunk[10]: 
+    Length       : 0x0000001A (26)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "jpeg:colorspace"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {9 bytes}
+    CRC          : 0x89382335 (2302157621)
+Chunk[11]: 
+    Length       : 0x00000024 (36)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "jpeg:sampling-factor"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {14 bytes}
+    CRC          : 0x9DFE1E99 (2650676889)
+Chunk[12]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

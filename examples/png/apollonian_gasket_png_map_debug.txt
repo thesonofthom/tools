@@ -1,0 +1,66 @@
+--------------------------------------------------------------------
+PNG File Format: apollonian_gasket.png (offset: 0, size 32791 bytes)
+--------------------------------------------------------------------
+PNG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x00000258 (600)
+    Height            : (offset: 12, size: 4 bytes): 0x00000258 (600)
+    Bit depth         : (offset: 16, size: 1 byte): 0x08
+    Color Type        : (offset: 17, size: 1 byte): 0x00 (Greyscale)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x00
+    CRC               : (offset: 21, size: 4 bytes): 0x9B0DC700 (2601371392)
+Chunk[0]: (offset: 33, size: 14 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000002
+    Chunk type   : (offset: 4, size: 4 bytes): "bKGD" [0x62,0x4B,0x47,0x44]
+    Data: (offset: 8, size: 2 bytes): 
+        Greyscale: (offset: 0, size: 2 bytes): 0x0000
+    Reserved     : (offset: 10, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 10, size: 4 bytes): 0xAA8D2332 (2861376306)
+Chunk[1]: (offset: 47, size: 21 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000009
+    Chunk type   : (offset: 4, size: 4 bytes): "pHYs" [0x70,0x48,0x59,0x73]
+    Data: (offset: 8, size: 9 bytes): 
+        Pixels Per Unit, X Axis: (offset: 0, size: 4 bytes): 0x00000048 (72)
+        Pixels Per Unit, Y Axis: (offset: 4, size: 4 bytes): 0x00000048 (72)
+        Unit Specifier         : (offset: 8, size: 1 byte): 0x00 (Unit_is_unknown)
+    Reserved     : (offset: 17, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 17, size: 4 bytes): 0x46C96B3E (1187605310)
+Chunk[2]: (offset: 68, size: 32613 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00007F59 (32601)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 32601 bytes): 
+        Chunk Data: (offset: 0, size: 32601 bytes): {32601 bytes}
+    Reserved     : (offset: 32609, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 32609, size: 4 bytes): 0x3E56844A (1045857354)
+Chunk[3]: (offset: 32681, size: 49 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000025 (37)
+    Chunk type   : (offset: 4, size: 4 bytes): "tEXt" [0x74,0x45,0x58,0x74]
+    Data: (offset: 8, size: 37 bytes): 
+        Keyword        : (offset: 0, size: 12 bytes): "date:create" [0x64,0x61,0x74,0x65,0x3A,0x63,0x72,0x65,0x61,0x74,0x65,0x00]
+        Text String    : (offset: 12, size: 25 bytes): "2011-06-11T10:03:01-04:00" [0x32,0x30,0x31,0x31,0x2D,0x30,0x36,0x2D,0x31,0x31,0x54,0x31,0x30,0x3A,0x30,0x33,0x3A,0x30,0x31,0x2D,0x30,0x34,0x3A,0x30,0x30]
+    Reserved     : (offset: 45, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 45, size: 4 bytes): 0x50374F45 (1345802053)
+Chunk[4]: (offset: 32730, size: 49 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000025 (37)
+    Chunk type   : (offset: 4, size: 4 bytes): "tEXt" [0x74,0x45,0x58,0x74]
+    Data: (offset: 8, size: 37 bytes): 
+        Keyword        : (offset: 0, size: 12 bytes): "date:modify" [0x64,0x61,0x74,0x65,0x3A,0x6D,0x6F,0x64,0x69,0x66,0x79,0x00]
+        Text String    : (offset: 12, size: 25 bytes): "2011-06-11T09:40:11-04:00" [0x32,0x30,0x31,0x31,0x2D,0x30,0x36,0x2D,0x31,0x31,0x54,0x30,0x39,0x3A,0x34,0x30,0x3A,0x31,0x31,0x2D,0x30,0x34,0x3A,0x30,0x30]
+    Reserved     : (offset: 45, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 45, size: 4 bytes): 0xACB4D478 (2897532024)
+Chunk[5]: (offset: 32779, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

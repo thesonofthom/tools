@@ -1,0 +1,70 @@
+----------------------------------------------------------
+PNG File Format: white_box.png (offset: 0, size 919 bytes)
+----------------------------------------------------------
+PNG Header: (offset: 0, size: 8 bytes): 
+    First Byte      : (offset: 0, size: 1 byte): 0x89 (137)
+    Signature       : (offset: 1, size: 3 bytes): "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : (offset: 4, size: 2 bytes): 0x0D0A (3338)
+    DOS End Of File : (offset: 6, size: 1 byte): 0x1A (26)
+    UNIX Line Ending: (offset: 7, size: 1 byte): 0x0A (10)
+IHDR Chunk: (offset: 8, size: 25 bytes): 
+    Length            : (offset: 0, size: 4 bytes): 0x0000000D (13)
+    Chunk type        : (offset: 4, size: 4 bytes): "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : (offset: 8, size: 4 bytes): 0x000001A4 (420)
+    Height            : (offset: 12, size: 4 bytes): 0x0000012C (300)
+    Bit depth         : (offset: 16, size: 1 byte): 0x08
+    Color Type        : (offset: 17, size: 1 byte): 0x02 (Truecolor)
+    Compression Method: (offset: 18, size: 1 byte): 0x00
+    Filter Method     : (offset: 19, size: 1 byte): 0x00
+    Interlace Method  : (offset: 20, size: 1 byte): 0x00
+    CRC               : (offset: 21, size: 4 bytes): 0x03CD50D7 (63787223)
+Chunk[0]: (offset: 33, size: 13 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000001
+    Chunk type   : (offset: 4, size: 4 bytes): "sRGB" [0x73,0x52,0x47,0x42]
+    Data: (offset: 8, size: 1 byte): 
+        Rendering Intent: (offset: 0, size: 1 byte): 0x00 (Perceptual)
+    Reserved     : (offset: 9, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 9, size: 4 bytes): 0xAECE1CE9 (2932743401)
+Chunk[1]: (offset: 46, size: 21 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000009
+    Chunk type   : (offset: 4, size: 4 bytes): "pHYs" [0x70,0x48,0x59,0x73]
+    Data: (offset: 8, size: 9 bytes): 
+        Pixels Per Unit, X Axis: (offset: 0, size: 4 bytes): 0x00000B13 (2835)
+        Pixels Per Unit, Y Axis: (offset: 4, size: 4 bytes): 0x00000B13 (2835)
+        Unit Specifier         : (offset: 8, size: 1 byte): 0x01 (Unit_is_the_meter)
+    Reserved     : (offset: 17, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 17, size: 4 bytes): 0x009A9C18 (10132504)
+Chunk[2]: (offset: 67, size: 19 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000007
+    Chunk type   : (offset: 4, size: 4 bytes): "tIME" [0x74,0x49,0x4D,0x45]
+    Data: (offset: 8, size: 7 bytes): 
+        Year  : (offset: 0, size: 2 bytes): 0x07DA (2010)
+        Month : (offset: 2, size: 1 byte): 0x04 (April)
+        Day   : (offset: 3, size: 1 byte): 0x1A (26)
+        Hour  : (offset: 4, size: 1 byte): 0x0D (13)
+        Minute: (offset: 5, size: 1 byte): 0x13 (19)
+        Second: (offset: 6, size: 1 byte): 0x2A (42)
+    Reserved     : (offset: 15, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 15, size: 4 bytes): 0x07D99FC5 (131702725)
+Chunk[3]: (offset: 86, size: 37 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000019 (25)
+    Chunk type   : (offset: 4, size: 4 bytes): "tEXt" [0x74,0x45,0x58,0x74]
+    Data: (offset: 8, size: 25 bytes): 
+        Keyword        : (offset: 0, size: 8 bytes): "Comment" [0x43,0x6F,0x6D,0x6D,0x65,0x6E,0x74,0x00]
+        Text String    : (offset: 8, size: 17 bytes): "Created with GIMP" [0x43,0x72,0x65,0x61,0x74,0x65,0x64,0x20,0x77,0x69,0x74,0x68,0x20,0x47,0x49,0x4D,0x50]
+    Reserved     : (offset: 33, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 33, size: 4 bytes): 0x57810E17 (1468075543)
+Chunk[4]: (offset: 123, size: 784 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000304 (772)
+    Chunk type   : (offset: 4, size: 4 bytes): "IDAT" [0x49,0x44,0x41,0x54]
+    Data: (offset: 8, size: 772 bytes): 
+        Chunk Data: (offset: 0, size: 772 bytes): {772 bytes}
+    Reserved     : (offset: 780, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 780, size: 4 bytes): 0x2130A5F6 (556836342)
+Chunk[5]: (offset: 907, size: 12 bytes): 
+    Length       : (offset: 0, size: 4 bytes): 0x00000000
+    Chunk type   : (offset: 4, size: 4 bytes): "IEND" [0x49,0x45,0x4E,0x44]
+    Data: (offset: 8, size: 0 bytes): 
+        Chunk Data: (offset: 0, size: 0 bytes): {0 bytes}
+    Reserved     : (offset: 8, size: 0 bytes): {0 bytes}
+    CRC          : (offset: 8, size: 4 bytes): 0xAE426082 (2923585666)

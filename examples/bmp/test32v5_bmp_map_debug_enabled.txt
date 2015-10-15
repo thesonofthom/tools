@@ -1,0 +1,45 @@
+---------------------------------------------------------
+BMP File Header: test32v5.bmp (offset: 0, size 138 bytes)
+---------------------------------------------------------
+Signature   : (offset: 0, size: 2 bytes): "BM" [0x42,0x4D]
+File Size   : (offset: 2, size: 4 bytes): 0x0002AB0A (174858)
+Reserved    : (offset: 6, size: 4 bytes): {4 bytes}
+Data Offset : (offset: 10, size: 4 bytes): 0x0000008A (138)
+DIB Header: (offset: 14, size: 124 bytes): 
+    Size                             : (offset: 0, size: 4 bytes): 0x0000007C (124) (BITMAPV5HEADER)
+    Width                            : (offset: 4, size: 4 bytes): 0x00000175 (373)
+    Height                           : (offset: 8, size: 4 bytes): 0x0000009C (156)
+    Planes                           : (offset: 12, size: 2 bytes): 0x0001
+    Bits-Per-Pixel                   : (offset: 14, size: 2 bytes): 0x0018 (24)
+    Compression                      : (offset: 16, size: 4 bytes): 0x00000000 (BI_RGB)
+    Size of Image                    : (offset: 20, size: 4 bytes): 0x0002AA80 (174720)
+    Horizontal Pixels-Per-Meter      : (offset: 24, size: 4 bytes): 0x00000B6D (2925)
+    Vertical Pixels-Per-Meter        : (offset: 28, size: 4 bytes): 0x00000B6D (2925)
+    Color Indices Used               : (offset: 32, size: 4 bytes): 0x00000000
+    Number of Important Color Indices: (offset: 36, size: 4 bytes): 0x00000000
+    Red Mask                         : (offset: 40, size: 4 bytes): 0x00FF0000 (16711680)
+    Green Mask                       : (offset: 44, size: 4 bytes): 0x0000FF00 (65280)
+    Blue Mask                        : (offset: 48, size: 4 bytes): 0x000000FF (255)
+    Alpha Mask                       : (offset: 52, size: 4 bytes): 0xFF000000 (4278190080)
+    Color Space Type                 : (offset: 56, size: 4 bytes): 0x00000001 (LCS_sRGB)
+    Endpoints: (offset: 60, size: 36 bytes): 
+        CIEXYZ Red: (offset: 0, size: 12 bytes): 
+            X: (offset: 0, size: 4 bytes): 0x00000000
+            Y: (offset: 4, size: 4 bytes): 0x00000000
+            Z: (offset: 8, size: 4 bytes): 0x00000001
+        CIEXYZ Green: (offset: 12, size: 12 bytes): 
+            X: (offset: 0, size: 4 bytes): 0x00000000
+            Y: (offset: 4, size: 4 bytes): 0x00000000
+            Z: (offset: 8, size: 4 bytes): 0x00000001
+        CIEXYZ Blue: (offset: 24, size: 12 bytes): 
+            X: (offset: 0, size: 4 bytes): 0x00000000
+            Y: (offset: 4, size: 4 bytes): 0x00000000
+            Z: (offset: 8, size: 4 bytes): 0x00000001
+    Gamma Red                        : (offset: 96, size: 4 bytes): 0x00000000
+    Gamma Green                      : (offset: 100, size: 4 bytes): 0x00000000
+    Gamma Blue                       : (offset: 104, size: 4 bytes): 0x00000000
+    Rendering Intent                 : (offset: 108, size: 4 bytes): 0x00000008 (LCS_GM_ABS_COLORIMETRIC)
+    Profile Data Offset              : (offset: 112, size: 4 bytes): 0x00000000
+    Profile Data Size                : (offset: 116, size: 4 bytes): 0x00000000
+    Reserved                         : (offset: 120, size: 4 bytes): {4 bytes}
+Color Palette: (offset: 138, size: 0 bytes [length: 0]): []

@@ -1,0 +1,20 @@
+--------------------
+BMP File: splash.bmp
+--------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x0006DE06 (450054)
+    Data Offset : 0x00000036 (54)
+DIB Header: 
+    Size                             : 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : 0x000001F4 (500)
+    Height                           : 0x0000012C (300)
+    Planes                           : 0x0001
+    Bits-Per-Pixel                   : 0x0018 (24)
+    Compression                      : 0x00000000 (BI_RGB)
+    Size of Image                    : 0x0006DDD0 (450000)
+    Horizontal Pixels-Per-Meter      : 0x00000B13 (2835)
+    Vertical Pixels-Per-Meter        : 0x00000B13 (2835)
+    Color Indices Used               : 0x00000000
+    Number of Important Color Indices: 0x00000000
+Color Palette     : []

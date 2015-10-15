@@ -1,0 +1,132 @@
+------------------------------------
+Windows EXE File Header: regedit.exe
+------------------------------------
+DOS Header: 
+    Magic number                    : "MZ" [0x4D,0x5A]
+    Bytes on last page of file      : 0x0090 (144)
+    Pages in file                   : 0x0003
+    Relocations                     : 0x0000
+    Size of header in paragraphs    : 0x0004
+    Minimum extra paragraphs needed : 0x0000
+    Maximum extra paragraphs needed : 0xFFFF (65535)
+    Initial (relative) SS value     : 0x0000
+    Initial SP value                : 0x00B8 (184)
+    Checksum                        : 0x0000
+    Initial IP value                : 0x0000
+    Initial (relative) CS value     : 0x0000
+    File address of relocation table: 0x0040 (64)
+    Overlay number                  : 0x0000
+    OEM identifier                  : 0x0000
+    OEM information                 : 0x0000
+    File address of new exe header  : 0x000000E8 (232)
+DOS Data  : {168 bytes}
+PE Header: 
+    Signature         : "PE" [0x50,0x45,0x00,0x00]
+    COFF Header: 
+        Machine                : 0x8664 (34404) (AMD64)
+        Number of Sections     : 0x0006
+        Time-Date Stamp        : 0x4A5BC2CC (1247527628)
+        Pointer To Symbol Table: 0x00000000
+        Number of Symbols      : 0x00000000
+        Size of Optional Header: 0x00F0 (240)
+        Characteristics: 
+            Relocation Info Stripped                : 0b
+            Executable File                         : 1b
+            Line Numbers Stripped                   : 0b
+            Local Symbols Stripped                  : 0b
+            Aggressive Working Set Trim             : 0b
+            Large Address Aware (>2GB)              : 1b
+            Bytes of Machine Word Reveresed (Low)   : 0b
+            32 Bit Word Machine                     : 0b
+            Debug Info Stripped                     : 0b
+            Run From Swap File if on Removable Media: 0b
+            Run From Swap File if on Net            : 0b
+            System File                             : 0b
+            DLL File                                : 0b
+            Run on UP Machine Only                  : 0b
+            Bytes of Machine Word Reveresed (Hi)    : 0b
+    PE Optional Header: 
+        Magic                     : 0x020B (523) (HDR64_MAGIC)
+        Major Linker Version      : 0x09
+        Minor Linker Version      : 0x00
+        Size of Code              : 0x0001D200 (119296)
+        Size of Initialized Data  : 0x0004BC00 (310272)
+        Size of Uninitialized Data: 0x00000000
+        Address of Entry Point    : 0x00001010 (4112)
+        Base of Code              : 0x00001000 (4096)
+        Image Base                : 0x0000000100000000 (4294967296)
+        Section Alignment         : 0x00001000 (4096)
+        File Alignment            : 0x00000200 (512)
+        Major OS Version          : 0x0006
+        Minor OS Version          : 0x0001
+        Major Image Version       : 0x0006
+        Minor Image Version       : 0x0001
+        Major Subsystem Version   : 0x0006
+        Minor Subsystem Version   : 0x0001
+        Size of Image             : 0x0006D000 (446464)
+        Size Of Headers           : 0x00000600 (1536)
+        Checksum                  : 0x000731B8 (471480)
+        Subsystem                 : 0x0002 (WINDOWS_GUI)
+        DLL Characteristics: 
+            Dynamic Base          : 1b
+            Force Integrity       : 0b
+            NX Compatible         : 1b
+            Does not use isolation: 0b
+            Does not use SEH      : 0b
+            Do not bind           : 0b
+            Driver uses WDM model : 0b
+            Terminal Server Aware : 1b
+        Size of Stack Reserve     : 0x0000000000080000 (524288)
+        Size of Stack Commit      : 0x0000000000004000 (16384)
+        Size of Heap Reserve      : 0x0000000000100000 (1048576)
+        Size of Heap Commit       : 0x0000000000001000 (4096)
+        Loader Flags              : 0x00000000
+        Number of Rva and Sizes   : 0x00000010 (16)
+        Data Directory[0]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[1]: 
+            Virtual Address: 0x00020E70 (134768)
+            Size           : 0x00000154 (340)
+        Data Directory[2]: 
+            Virtual Address: 0x00068000 (425984)
+            Size           : 0x00003488 (13448)
+        Data Directory[3]: 
+            Virtual Address: 0x00067000 (421888)
+            Size           : 0x00000F90 (3984)
+        Data Directory[4]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[5]: 
+            Virtual Address: 0x0006C000 (442368)
+            Size           : 0x0000012C (300)
+        Data Directory[6]: 
+            Virtual Address: 0x0001E064 (122980)
+            Size           : 0x00000038 (56)
+        Data Directory[7]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[8]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[9]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[10]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[11]: 
+            Virtual Address: 0x000002E0 (736)
+            Size           : 0x00000154 (340)
+        Data Directory[12]: 
+            Virtual Address: 0x0001F000 (126976)
+            Size           : 0x00000B08 (2824)
+        Data Directory[13]: 
+            Virtual Address: 0x00020E00 (134656)
+            Size           : 0x00000040 (64)
+        Data Directory[14]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000
+        Data Directory[15]: 
+            Virtual Address: 0x00000000
+            Size           : 0x00000000

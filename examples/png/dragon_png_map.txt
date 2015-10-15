@@ -1,0 +1,145 @@
+---------------------------
+PNG File Format: dragon.png
+---------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x000001DB (475)
+    Height            : 0x000001CC (460)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x12CB9540 (315331904)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000EC4 (3780)
+        Pixels Per Unit, Y Axis: 0x00000EC4 (3780)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x952B0E1B (2502626843)
+Chunk[1]: 
+    Length       : 0x00000007
+    Chunk type   : "tIME" [0x74,0x49,0x4D,0x45]
+    Data: 
+        Year  : 0x07D9 (2009)
+        Month : 0x07 (July)
+        Day   : 0x1E (30)
+        Hour  : 0x13 (19)
+        Minute: 0x18 (24)
+        Second: 0x05
+    CRC          : 0x17126A04 (387082756)
+Chunk[2]: 
+    Length       : 0x00000007
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Author"
+        Text String: ""
+    CRC          : 0xA9AECC48 (2846805064)
+Chunk[3]: 
+    Length       : 0x0000000C (12)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword    : "Description"
+        Text String: ""
+    CRC          : 0x13092123 (319365411)
+Chunk[4]: 
+    Length       : 0x0000000A (10)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Copyright"
+        Text String: ""
+    CRC          : 0xAC0FCC3A (2886716474)
+Chunk[5]: 
+    Length       : 0x0000000E (14)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword    : "Creation time"
+        Text String: ""
+    CRC          : 0x35F70F09 (905383689)
+Chunk[6]: 
+    Length       : 0x00000009
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Software"
+        Text String: ""
+    CRC          : 0x5D70FF3A (1567686458)
+Chunk[7]: 
+    Length       : 0x0000000B (11)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword    : "Disclaimer"
+        Text String: ""
+    CRC          : 0xB7C0B48F (3082859663)
+Chunk[8]: 
+    Length       : 0x00000008
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Warning"
+        Text String: ""
+    CRC          : 0xC01BE687 (3223053959)
+Chunk[9]: 
+    Length       : 0x00000007
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Source"
+        Text String: ""
+    CRC          : 0xF5FF83EB (4127163371)
+Chunk[10]: 
+    Length       : 0x00000008
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Comment"
+        Text String: ""
+    CRC          : 0xF6CC96BF (4140603071)
+Chunk[11]: 
+    Length       : 0x00000006
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword   : "Title"
+        Text String: ""
+    CRC          : 0xA8EED227 (2834223655)
+Chunk[12]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x4B7A1CAB (1266293931)
+Chunk[13]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x0360F640 (56686144)
+Chunk[14]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xB43B61C3 (3023790531)
+Chunk[15]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x3452BF20 (877838112)
+Chunk[16]: 
+    Length       : 0x00001893 (6291)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {6291 bytes}
+    CRC          : 0xF8E964D7 (4176045271)
+Chunk[17]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

@@ -1,0 +1,1 @@
+PNG Samples taken from: http://www.fnordware.com/superpng/samples.html

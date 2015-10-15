@@ -1,0 +1,64 @@
+------------------------------
+PNG File Format: white_box.png
+------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x000001A4 (420)
+    Height            : 0x0000012C (300)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x03CD50D7 (63787223)
+Chunk[0]: 
+    Length       : 0x00000001
+    Chunk type   : "sRGB" [0x73,0x52,0x47,0x42]
+    Data: 
+        Rendering Intent: 0x00 (Perceptual)
+    CRC          : 0xAECE1CE9 (2932743401)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000B13 (2835)
+        Pixels Per Unit, Y Axis: 0x00000B13 (2835)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x009A9C18 (10132504)
+Chunk[2]: 
+    Length       : 0x00000007
+    Chunk type   : "tIME" [0x74,0x49,0x4D,0x45]
+    Data: 
+        Year  : 0x07DA (2010)
+        Month : 0x04 (April)
+        Day   : 0x1A (26)
+        Hour  : 0x0D (13)
+        Minute: 0x13 (19)
+        Second: 0x2A (42)
+    CRC          : 0x07D99FC5 (131702725)
+Chunk[3]: 
+    Length       : 0x00000019 (25)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Comment"
+        Text String    : "Created with GIMP"
+    CRC          : 0x57810E17 (1468075543)
+Chunk[4]: 
+    Length       : 0x00000304 (772)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {772 bytes}
+    CRC          : 0x2130A5F6 (556836342)
+Chunk[5]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

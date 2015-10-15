@@ -1,0 +1,77 @@
+-----------------------------
+PNG File Format: tiler_3d.png
+-----------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000230 (560)
+    Height            : 0x000001A4 (420)
+    Bit depth         : 0x08
+    Color Type        : 0x02 (Truecolor)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xA08C88F0 (2693564656)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000EC4 (3780)
+        Pixels Per Unit, Y Axis: 0x00000EC4 (3780)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x952B0E1B (2502626843)
+Chunk[1]: 
+    Length       : 0x00000007
+    Chunk type   : "tIME" [0x74,0x49,0x4D,0x45]
+    Data: 
+        Year  : 0x07D6 (2006)
+        Month : 0x05 (May)
+        Day   : 0x16 (22)
+        Hour  : 0x14 (20)
+        Minute: 0x07
+        Second: 0x39 (57)
+    CRC          : 0xBE4AC7C2 (3192571842)
+Chunk[2]: 
+    Length       : 0x00000022 (34)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Creation Time"
+        Text String    : "22-May-2006 16:07:57"
+    CRC          : 0x2641F26A (641856106)
+Chunk[3]: 
+    Length       : 0x00000024 (36)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Software"
+        Text String    : "MATLAB, The Mathworks, Inc."
+    CRC          : 0xBAC452CF (3133428431)
+Chunk[4]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xEBFF80FF (3959390463)
+Chunk[5]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x9529B1B4 (2502537652)
+Chunk[6]: 
+    Length       : 0x00000105 (261)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {261 bytes}
+    CRC          : 0xBFDFF572 (3219125618)
+Chunk[7]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

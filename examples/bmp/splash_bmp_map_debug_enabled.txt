@@ -1,0 +1,20 @@
+------------------------------------------------------
+BMP File Header: splash.bmp (offset: 0, size 54 bytes)
+------------------------------------------------------
+Signature   : (offset: 0, size: 2 bytes): "BM" [0x42,0x4D]
+File Size   : (offset: 2, size: 4 bytes): 0x0006DE06 (450054)
+Reserved    : (offset: 6, size: 4 bytes): {4 bytes}
+Data Offset : (offset: 10, size: 4 bytes): 0x00000036 (54)
+DIB Header: (offset: 14, size: 40 bytes): 
+    Size                             : (offset: 0, size: 4 bytes): 0x00000028 (40) (BITMAPINFOHEADER)
+    Width                            : (offset: 4, size: 4 bytes): 0x000001F4 (500)
+    Height                           : (offset: 8, size: 4 bytes): 0x0000012C (300)
+    Planes                           : (offset: 12, size: 2 bytes): 0x0001
+    Bits-Per-Pixel                   : (offset: 14, size: 2 bytes): 0x0018 (24)
+    Compression                      : (offset: 16, size: 4 bytes): 0x00000000 (BI_RGB)
+    Size of Image                    : (offset: 20, size: 4 bytes): 0x0006DDD0 (450000)
+    Horizontal Pixels-Per-Meter      : (offset: 24, size: 4 bytes): 0x00000B13 (2835)
+    Vertical Pixels-Per-Meter        : (offset: 28, size: 4 bytes): 0x00000B13 (2835)
+    Color Indices Used               : (offset: 32, size: 4 bytes): 0x00000000
+    Number of Important Color Indices: (offset: 36, size: 4 bytes): 0x00000000
+Color Palette: (offset: 54, size: 0 bytes [length: 0]): []

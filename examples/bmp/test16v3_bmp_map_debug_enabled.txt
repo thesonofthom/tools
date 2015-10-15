@@ -1,0 +1,24 @@
+--------------------------------------------------------
+BMP File Header: test16v3.bmp (offset: 0, size 70 bytes)
+--------------------------------------------------------
+Signature   : (offset: 0, size: 2 bytes): "BM" [0x42,0x4D]
+File Size   : (offset: 2, size: 4 bytes): 0x00020048 (131144)
+Reserved    : (offset: 6, size: 4 bytes): {4 bytes}
+Data Offset : (offset: 10, size: 4 bytes): 0x00000046 (70)
+DIB Header: (offset: 14, size: 56 bytes): 
+    Size                             : (offset: 0, size: 4 bytes): 0x00000038 (56) (BITMAPV3INFOHEADER)
+    Width                            : (offset: 4, size: 4 bytes): 0x00000100 (256)
+    Height                           : (offset: 8, size: 4 bytes): 0x00000100 (256)
+    Planes                           : (offset: 12, size: 2 bytes): 0x0001
+    Bits-Per-Pixel                   : (offset: 14, size: 2 bytes): 0x0010 (16)
+    Compression                      : (offset: 16, size: 4 bytes): 0x00000003 (BI_BITFIELD)
+    Size of Image                    : (offset: 20, size: 4 bytes): 0x00020002 (131074)
+    Horizontal Pixels-Per-Meter      : (offset: 24, size: 4 bytes): 0x00000B12 (2834)
+    Vertical Pixels-Per-Meter        : (offset: 28, size: 4 bytes): 0x00000B12 (2834)
+    Color Indices Used               : (offset: 32, size: 4 bytes): 0x00000000
+    Number of Important Color Indices: (offset: 36, size: 4 bytes): 0x00000000
+    Red Mask                         : (offset: 40, size: 4 bytes): 0x00000F00 (3840)
+    Green Mask                       : (offset: 44, size: 4 bytes): 0x000000F0 (240)
+    Blue Mask                        : (offset: 48, size: 4 bytes): 0x0000000F (15)
+    Alpha Mask                       : (offset: 52, size: 4 bytes): 0x00000000
+Color Palette: (offset: 70, size: 0 bytes [length: 0]): []

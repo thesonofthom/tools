@@ -1,0 +1,57 @@
+---------------------------
+PNG File Format: bmp_08.png
+---------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x000000FF (255)
+    Height            : 0x000000FF (255)
+    Bit depth         : 0x04
+    Color Type        : 0x03 (Indexed_color)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xCC261DF9 (3425050105)
+Chunk[0]: 
+    Length       : 0x0000000F (15)
+    Chunk type   : "PLTE" [0x50,0x4C,0x54,0x45]
+    Data: 
+        PLTE Entries[0]: 
+            Red  : 0x00
+            Green: 0x00
+            Blue : 0x00
+        PLTE Entries[1]: 
+            Red  : 0x00
+            Green: 0x01
+            Blue : 0x00
+        PLTE Entries[2]: 
+            Red  : 0x02
+            Green: 0x01
+            Blue : 0x00
+        PLTE Entries[3]: 
+            Red  : 0x00
+            Green: 0x02
+            Blue : 0x01
+        PLTE Entries[4]: 
+            Red  : 0x01
+            Green: 0x00
+            Blue : 0x02
+    CRC          : 0x416C2F4B (1097609035)
+Chunk[1]: 
+    Length       : 0x0000046D (1133)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {1133 bytes}
+    CRC          : 0x744E5836 (1951291446)
+Chunk[2]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

@@ -1,0 +1,132 @@
+--------------------------------
+PNG File Format: yonsei_logo.png
+--------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x0000012C (300)
+    Height            : 0x0000012C (300)
+    Bit depth         : 0x08
+    Color Type        : 0x06 (TrueColorWithAlpha)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x797D8E75 (2038271605)
+Chunk[0]: 
+    Length       : 0x00000001
+    Chunk type   : "sRGB" [0x73,0x52,0x47,0x42]
+    Data: 
+        Rendering Intent: 0x00 (Perceptual)
+    CRC          : 0xAECE1CE9 (2932743401)
+Chunk[1]: 
+    Length       : 0x00000006
+    Chunk type   : "bKGD" [0x62,0x4B,0x47,0x44]
+    Data: 
+        Red  : 0x00FF (255)
+        Green: 0x00FF (255)
+        Blue : 0x00FF (255)
+    CRC          : 0xA0BDA793 (2696783763)
+Chunk[2]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00001712 (5906)
+        Pixels Per Unit, Y Axis: 0x00001712 (5906)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0x679FD252 (1738527314)
+Chunk[3]: 
+    Length       : 0x00000007
+    Chunk type   : "tIME" [0x74,0x49,0x4D,0x45]
+    Data: 
+        Year  : 0x07D9 (2009)
+        Month : 0x03 (March)
+        Day   : 0x0B (11)
+        Hour  : 0x16 (22)
+        Minute: 0x3B (59)
+        Second: 0x02
+    CRC          : 0xA3534B40 (2740144960)
+Chunk[4]: 
+    Length       : 0x0000001D (29)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "Comment"
+        Text String    : "Created with The GIMP"
+    CRC          : 0xEF64256E (4016317806)
+Chunk[5]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x21A1401D (564215837)
+Chunk[6]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x9871C540 (2557592896)
+Chunk[7]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x5A0B96F3 (1510708979)
+Chunk[8]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x3AC07518 (985691416)
+Chunk[9]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x5FBA5D12 (1606049042)
+Chunk[10]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x2F5BA2E7 (794534631)
+Chunk[11]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x79FD1940 (2046630208)
+Chunk[12]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x6555F9B4 (1700133300)
+Chunk[13]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0xD130ABAE (3509627822)
+Chunk[14]: 
+    Length       : 0x00002000 (8192)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {8192 bytes}
+    CRC          : 0x071E654F (119432527)
+Chunk[15]: 
+    Length       : 0x0000149D (5277)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {5277 bytes}
+    CRC          : 0xA707FBED (2802318317)
+Chunk[16]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

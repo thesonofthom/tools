@@ -1,0 +1,41 @@
+------------------------
+BMP File: test32bfv4.bmp
+------------------------
+Bitmap File Header: 
+    Signature   : "BM" [0x42,0x4D]
+    File Size   : 0x00038DAA (232874)
+    Data Offset : 0x0000007A (122)
+DIB Header: 
+    Size                             : 0x0000006C (108) (BITMAPV4HEADER)
+    Width                            : 0x00000175 (373)
+    Height                           : 0x0000009C (156)
+    Planes                           : 0x0001
+    Bits-Per-Pixel                   : 0x0020 (32)
+    Compression                      : 0x00000003 (BI_BITFIELD)
+    Size of Image                    : 0x00038D30 (232752)
+    Horizontal Pixels-Per-Meter      : 0x00000B6D (2925)
+    Vertical Pixels-Per-Meter        : 0x00000B6D (2925)
+    Color Indices Used               : 0x00000000
+    Number of Important Color Indices: 0x00000000
+    Red Mask                         : 0x00FF0000 (16711680)
+    Green Mask                       : 0x0000FF00 (65280)
+    Blue Mask                        : 0x000000FF (255)
+    Alpha Mask                       : 0xFF000000 (4278190080)
+    Color Space Type                 : 0x00000001 (LCS_sRGB)
+    Endpoints: 
+        CIEXYZ Red: 
+            X: 0x00000000
+            Y: 0x00000000
+            Z: 0x00000001
+        CIEXYZ Green: 
+            X: 0x00000000
+            Y: 0x00000000
+            Z: 0x00000001
+        CIEXYZ Blue: 
+            X: 0x00000000
+            Y: 0x00000000
+            Z: 0x00000001
+    Gamma Red                        : 0x00000000
+    Gamma Green                      : 0x00000000
+    Gamma Blue                       : 0x00000000
+Color Palette     : []

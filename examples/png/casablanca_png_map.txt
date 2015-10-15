@@ -1,0 +1,127 @@
+-------------------------------
+PNG File Format: casablanca.png
+-------------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x000001CC (460)
+    Height            : 0x00000168 (360)
+    Bit depth         : 0x08
+    Color Type        : 0x00 (Greyscale)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0xFF3D94A2 (4282225826)
+Chunk[0]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00001BBC (7100)
+        Pixels Per Unit, Y Axis: 0x00001BBC (7100)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0xBAB7A0BB (3132596411)
+Chunk[1]: 
+    Length       : 0x0000187A (6266)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type 8bim"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {6243 bytes}
+    CRC          : 0x0F84F522 (260371746)
+Chunk[2]: 
+    Length       : 0x0000166E (5742)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type exif"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {5719 bytes}
+    CRC          : 0xA114E5AB (2702501291)
+Chunk[3]: 
+    Length       : 0x0000035C (860)
+    Chunk type   : "zTXt" [0x7A,0x54,0x58,0x74]
+    Data: 
+        Keyword                   : "Raw profile type xmp"
+        Compression Method        : 0x00
+        Compressed Text Datastream: {838 bytes}
+    CRC          : 0xA46E2527 (2758681895)
+Chunk[4]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 01 CC 00 00 01 68 00 
+    CRC          : 0x7969E3EA (2036982762)
+Chunk[5]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xFA25ADC2 (4196773314)
+Chunk[6]: 
+    Length       : 0x00008000 (32768)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {32768 bytes}
+    CRC          : 0xD1307B8E (3509615502)
+Chunk[7]: 
+    Length       : 0x00006911 (26897)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {26897 bytes}
+    CRC          : 0xF24CB5B0 (4065113520)
+Chunk[8]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2011-01-15T16:20:23-05:00"
+    CRC          : 0xB08024A7 (2961188007)
+Chunk[9]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2011-01-15T16:20:23-05:00"
+    CRC          : 0xC1DD9C1B (3252526107)
+Chunk[10]: 
+    Length       : 0x00000011 (17)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "jpeg:colorspace"
+        Text String   : "1"
+    CRC          : 0xB57C0425 (3044803621)
+Chunk[11]: 
+    Length       : 0x00000018 (24)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "jpeg:sampling-factor"
+        Text String   : "1x1"
+    CRC          : 0x16AE83DB (380535771)
+Chunk[12]: 
+    Length       : 0x00000041 (65)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "xap:CreatorTool"
+        Text String    : "Adobe Photoshop Elements for Windows, version 2.0"
+    CRC          : 0xA8171125 (2820084005)
+Chunk[13]: 
+    Length       : 0x0000004B (75)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "xapMM:DocumentID"
+        Text String    : "adobe:docid:photoshop:583348c6-ca71-11d8-8368-835c57190d09"
+    CRC          : 0x8D02EF8A (2365779850)
+Chunk[14]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)

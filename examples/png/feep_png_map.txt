@@ -1,0 +1,92 @@
+-------------------------
+PNG File Format: feep.png
+-------------------------
+PNG Header: 
+    First Byte      : 0x89 (137)
+    Signature       : "PNG" [0x50,0x4E,0x47]
+    DOS Line Ending : 0x0D0A (3338)
+    DOS End Of File : 0x1A (26)
+    UNIX Line Ending: 0x0A (10)
+IHDR Chunk: 
+    Length            : 0x0000000D (13)
+    Chunk type        : "IHDR" [0x49,0x48,0x44,0x52]
+    Width             : 0x00000301 (769)
+    Height            : 0x000000E1 (225)
+    Bit depth         : 0x08
+    Color Type        : 0x06 (TrueColorWithAlpha)
+    Compression Method: 0x00
+    Filter Method     : 0x00
+    Interlace Method  : 0x00
+    CRC               : 0x90B3B90A (2427697418)
+Chunk[0]: 
+    Length       : 0x00000006
+    Chunk type   : "bKGD" [0x62,0x4B,0x47,0x44]
+    Data: 
+        Red  : 0x00FF (255)
+        Green: 0x00FF (255)
+        Blue : 0x00FF (255)
+    CRC          : 0xA0BDA793 (2696783763)
+Chunk[1]: 
+    Length       : 0x00000009
+    Chunk type   : "pHYs" [0x70,0x48,0x59,0x73]
+    Data: 
+        Pixels Per Unit, X Axis: 0x00000B12 (2834)
+        Pixels Per Unit, Y Axis: 0x00000B12 (2834)
+        Unit Specifier         : 0x01 (Unit_is_the_meter)
+    CRC          : 0xD2DD7EFC (3537731324)
+Chunk[2]: 
+    Length       : 0x00000009
+    Chunk type   : "vpAg" [0x76,0x70,0x41,0x67]
+    Data: 
+        Chunk Data: 
+                    0  1  2  3  4  5  6  7  8 
+                   -- -- -- -- -- -- -- -- -- 
+            0x0X | 00 00 03 01 00 00 00 E1 00 
+    CRC          : 0xA803B69C (2818815644)
+Chunk[3]: 
+    Length       : 0x000005D8 (1496)
+    Chunk type   : "IDAT" [0x49,0x44,0x41,0x54]
+    Data: 
+        Chunk Data: {1496 bytes}
+    CRC          : 0xF55B9F53 (4116422483)
+Chunk[4]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:create"
+        Text String    : "2011-01-08T20:03:02-05:00"
+    CRC          : 0xB5E159B0 (3051444656)
+Chunk[5]: 
+    Length       : 0x00000025 (37)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword        : "date:modify"
+        Text String    : "2011-01-08T20:03:02-05:00"
+    CRC          : 0xC4BCE10C (3300712716)
+Chunk[6]: 
+    Length       : 0x00000015 (21)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "tiff:alpha"
+        Text String   : "associated"
+    CRC          : 0x687FA3FE (1753195518)
+Chunk[7]: 
+    Length       : 0x00000014 (20)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "tiff:photometric"
+        Text String   : "RGB"
+    CRC          : 0xB32049DF (3005237727)
+Chunk[8]: 
+    Length       : 0x00000016 (22)
+    Chunk type   : "tEXt" [0x74,0x45,0x58,0x74]
+    Data: 
+        Keyword       : "tiff:rows-per-strip"
+        Text String   : "41"
+    CRC          : 0x4B06E616 (1258743318)
+Chunk[9]: 
+    Length       : 0x00000000
+    Chunk type   : "IEND" [0x49,0x45,0x4E,0x44]
+    Data: 
+        Chunk Data: {0 bytes}
+    CRC          : 0xAE426082 (2923585666)
